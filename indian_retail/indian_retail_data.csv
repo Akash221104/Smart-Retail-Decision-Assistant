@@ -1,0 +1,1001 @@
+Product_Name,Category,Brand,Price_INR,Quantity_Sold,Total_Sales,Store_Type,City,Area_Type,Date,Discount_Percentage,Customer_Rating,Competitor_Price,Demand_Level,Profit_Margin
+Shampoo,Personal Care,Tata,90.09,15,1351.35,Supermarket,Hyderabad,Urban,2026-03-11,23.23,4.3,97.63,Low,11.08
+Detergent,Household,Aashirvaad,180.08,29,5222.32,Kirana Store,Chennai,Urban,2026-03-08,14.39,3.7,167.21,Low,29.46
+Toothpaste,Personal Care,Patanjali,225.04,62,13952.48,Kirana Store,Hyderabad,Semi-Urban,2025-09-17,28.83,2.0,243.18,High,19.55
+Sugar,Groceries,Aashirvaad,264.49,24,6347.76,Supermarket,Hyderabad,Urban,2025-09-08,9.97,3.7,252.91,Low,21.69
+Shampoo,Personal Care,Store Brand,62.01,12,744.12,Supermarket,Ahmedabad,Semi-Urban,2025-08-15,3.1,2.7,64.75,Low,12.47
+Shampoo,Personal Care,Aashirvaad,218.67,50,10933.5,Kirana Store,Hyderabad,Urban,2025-08-08,15.93,3.9,200.18,Medium,12.47
+Floor Cleaner,Household,Tata,445.97,7,3121.79,Supermarket,Bangalore,Semi-Urban,2025-09-08,9.97,3.6,460.68,Low,20.47
+Cooking Oil,Groceries,Store Brand,116.36,27,3141.72,Mall,Bangalore,Semi-Urban,2025-04-25,4.95,1.5,124.36,Low,16.1
+Dishwash Bar,Household,P&G,356.08,22,7833.76,Mall,Hyderabad,Urban,2025-11-29,25.31,3.7,358.69,Low,23.48
+Rice,Groceries,P&G,188.28,33,6213.24,Supermarket,Mumbai,Urban,2026-02-18,25.91,3.7,189.45,Medium,18.49
+Floor Cleaner,Household,Dabur,394.53,23,9074.19,Supermarket,Mumbai,Urban,2025-07-07,13.66,2.3,419.62,Low,15.24
+Floor Cleaner,Household,Store Brand,263.59,13,3426.67,Kirana Store,Pune,Rural,2025-12-23,13.32,3.0,270.51,Low,13.26
+Floor Cleaner,Household,P&G,141.55,28,3963.4,Supermarket,Chennai,Urban,2025-08-30,4.61,5.0,148.35,Low,22.77
+Hair Oil,Personal Care,Dabur,278.29,24,6678.96,Kirana Store,Ahmedabad,Semi-Urban,2025-06-03,26.29,1.6,303.57,Low,11.67
+Shampoo,Personal Care,P&G,355.13,26,9233.38,Supermarket,Pune,Urban,2025-08-28,21.86,4.5,331.36,Low,11.04
+Cooking Oil,Groceries,Local Brand,111.51,40,4460.4,Kirana Store,Hyderabad,Semi-Urban,2026-02-02,0.99,4.2,119.87,Medium,11.47
+Dal,Groceries,Dabur,190.99,33,6302.67,Kirana Store,Hyderabad,Urban,2025-05-27,22.82,1.9,195.32,Medium,9.14
+Toothpaste,Personal Care,Patanjali,103.27,27,2788.29,Kirana Store,Bangalore,Rural,2026-01-16,5.95,2.9,94.03,Low,22.87
+Toothpaste,Personal Care,Fortune,147.81,18,2660.58,Supermarket,Bangalore,Semi-Urban,2025-07-26,6.65,3.8,154.27,Low,25.57
+Hair Oil,Personal Care,Store Brand,70.53,38,2680.14,Kirana Store,Chennai,Rural,2025-08-24,19.62,3.0,65.89,Medium,16.47
+Detergent,Household,Reliance,190.73,26,4958.98,Supermarket,Mumbai,Semi-Urban,2026-03-23,13.46,2.6,179.92,Low,13.96
+Detergent,Household,Tata,534.11,17,9079.87,Kirana Store,Bangalore,Urban,2026-04-01,23.77,4.7,494.22,Low,19.35
+Floor Cleaner,Household,Local Brand,303.66,7,2125.62,Supermarket,Ahmedabad,Rural,2025-06-01,1.87,1.8,301.97,Low,11.14
+Dishwash Bar,Household,Reliance,237.21,9,2134.89,Supermarket,Pune,Urban,2026-02-14,8.49,2.1,222.88,Low,16.41
+Dal,Groceries,Local Brand,105.35,10,1053.5,Supermarket,Ahmedabad,Urban,2025-06-16,1.04,4.4,107.4,Low,13.19
+Hair Oil,Personal Care,Store Brand,133.92,15,2008.8,Kirana Store,Ahmedabad,Urban,2025-08-14,7.36,2.8,129.04,Low,17.5
+Wheat Flour,Groceries,Dabur,90.71,16,1451.36,Supermarket,Pune,Urban,2025-08-24,5.85,3.3,91.71,Low,23.73
+Sugar,Groceries,Reliance,89.99,26,2339.74,Kirana Store,Bangalore,Rural,2025-12-15,29.81,2.8,92.17,Low,19.6
+Soap,Personal Care,Local Brand,189.96,41,7788.36,Kirana Store,Delhi,Rural,2026-03-21,18.38,1.7,192.92,Medium,19.51
+Dishwash Bar,Household,Store Brand,81.59,59,4813.81,Kirana Store,Pune,Rural,2026-02-05,29.25,2.1,81.71,Medium,7.84
+Sugar,Groceries,Local Brand,69.33,34,2357.22,Kirana Store,Chennai,Semi-Urban,2025-07-02,18.28,3.4,74.68,Medium,6.23
+Sugar,Groceries,Fortune,114.43,33,3776.19,Supermarket,Bangalore,Urban,2025-08-02,14.4,3.4,108.7,Medium,24.8
+Dal,Groceries,Reliance,120.35,27,3249.45,Kirana Store,Bangalore,Semi-Urban,2025-06-23,4.24,3.5,128.95,Low,15.26
+Hair Oil,Personal Care,HUL,41.21,98,4038.58,Mall,Delhi,Urban,2025-06-17,21.92,3.7,42.98,High,16.62
+Dishwash Bar,Household,Local Brand,124.33,32,3978.56,Kirana Store,Pune,Rural,2026-01-06,14.05,2.9,112.27,Medium,24.81
+Hair Oil,Personal Care,Fortune,146.13,15,2191.95,Supermarket,Delhi,Urban,2026-03-23,0.44,3.4,140.38,Low,28.12
+Floor Cleaner,Household,Dabur,56.27,64,3601.28,Supermarket,Mumbai,Semi-Urban,2025-11-11,14.45,4.2,58.89,High,15.16
+Wheat Flour,Groceries,Local Brand,111.73,40,4469.2,Kirana Store,Chennai,Urban,2026-03-04,8.98,3.9,104.51,Medium,10.17
+Soap,Personal Care,Local Brand,155.72,29,4515.88,Supermarket,Chennai,Urban,2025-12-26,21.04,1.6,169.48,Low,16.78
+Detergent,Household,Aashirvaad,228.2,21,4792.2,Supermarket,Bangalore,Urban,2025-11-30,16.12,4.9,247.96,Low,12.97
+Hair Oil,Personal Care,Aashirvaad,123.93,65,8055.45,Supermarket,Chennai,Urban,2025-07-17,22.55,4.3,122.47,High,22.2
+Hair Oil,Personal Care,Fortune,104.9,55,5769.5,Supermarket,Ahmedabad,Urban,2025-11-17,20.13,4.6,104.11,Medium,14.72
+Floor Cleaner,Household,Aashirvaad,511.08,12,6132.96,Supermarket,Chennai,Urban,2025-09-07,13.31,4.2,549.92,Low,26.0
+Floor Cleaner,Household,Tata,372.38,11,4096.18,Supermarket,Pune,Urban,2025-11-28,24.11,3.7,361.81,Low,20.93
+Shampoo,Personal Care,Patanjali,291.2,25,7280.0,Supermarket,Hyderabad,Urban,2025-05-12,25.71,3.2,280.74,Low,13.87
+Toothpaste,Personal Care,HUL,128.74,22,2832.28,Kirana Store,Pune,Semi-Urban,2026-03-16,7.56,4.0,120.09,Low,21.5
+Toothpaste,Personal Care,Dabur,28.69,68,1950.92,Kirana Store,Ahmedabad,Semi-Urban,2025-08-22,2.7,3.0,29.99,High,20.26
+Detergent,Household,Store Brand,267.58,32,8562.56,Supermarket,Bangalore,Rural,2025-08-27,26.75,2.4,276.34,Medium,14.77
+Floor Cleaner,Household,Store Brand,90.34,18,1626.12,Supermarket,Hyderabad,Rural,2025-12-13,27.3,3.3,94.52,Low,13.31
+Rice,Groceries,Local Brand,127.42,31,3950.02,Mall,Mumbai,Urban,2025-08-24,24.35,4.2,129.6,Medium,9.45
+Dal,Groceries,Local Brand,42.04,35,1471.4,Kirana Store,Bangalore,Rural,2025-12-09,26.46,3.5,43.6,Medium,5.48
+Detergent,Household,HUL,271.8,20,5436.0,Supermarket,Pune,Urban,2025-11-16,5.32,4.3,287.45,Low,28.78
+Detergent,Household,P&G,477.66,23,10986.18,Kirana Store,Ahmedabad,Rural,2025-07-09,23.11,5.0,432.99,Low,11.88
+Toothpaste,Personal Care,Aashirvaad,27.43,77,2112.11,Kirana Store,Delhi,Semi-Urban,2025-07-26,8.59,4.5,25.96,High,21.63
+Hair Oil,Personal Care,Reliance,161.31,28,4516.68,Kirana Store,Chennai,Semi-Urban,2025-08-31,7.76,2.6,161.59,Low,16.66
+Soap,Personal Care,Patanjali,70.88,10,708.8,Supermarket,Ahmedabad,Semi-Urban,2025-12-21,7.71,3.8,77.52,Low,17.97
+Shampoo,Personal Care,Store Brand,195.64,25,4891.0,Supermarket,Mumbai,Semi-Urban,2025-12-07,3.71,4.2,211.18,Low,22.08
+Dishwash Bar,Household,P&G,481.85,15,7227.75,Mall,Bangalore,Urban,2025-06-27,9.49,3.6,503.89,Low,21.3
+Floor Cleaner,Household,Local Brand,133.89,13,1740.57,Supermarket,Ahmedabad,Rural,2025-05-31,3.64,2.1,122.46,Low,16.08
+Toothpaste,Personal Care,Tata,128.98,17,2192.66,Supermarket,Chennai,Urban,2025-08-18,12.56,4.5,129.31,Low,20.28
+Rice,Groceries,Local Brand,140.16,21,2943.36,Kirana Store,Chennai,Rural,2026-01-20,15.04,3.0,150.4,Low,17.91
+Cooking Oil,Groceries,Fortune,264.98,11,2914.78,Supermarket,Bangalore,Urban,2025-09-25,0.61,4.1,273.89,Low,23.17
+Hair Oil,Personal Care,Tata,64.45,35,2255.75,Kirana Store,Pune,Urban,2025-08-12,23.04,4.2,63.74,Medium,22.83
+Floor Cleaner,Household,Dabur,412.72,10,4127.2,Kirana Store,Bangalore,Rural,2025-07-06,21.94,2.1,432.41,Low,17.18
+Toothpaste,Personal Care,Store Brand,63.36,47,2977.92,Kirana Store,Pune,Rural,2025-06-05,8.27,3.0,62.0,Medium,24.2
+Toothpaste,Personal Care,Store Brand,215.16,31,6669.96,Supermarket,Mumbai,Semi-Urban,2026-01-10,9.77,4.4,218.91,Medium,18.74
+Dishwash Bar,Household,Dabur,372.26,9,3350.34,Kirana Store,Hyderabad,Rural,2025-05-06,25.22,2.4,360.84,Low,7.96
+Floor Cleaner,Household,Tata,303.76,7,2126.32,Supermarket,Hyderabad,Urban,2025-11-10,13.63,3.1,276.61,Low,23.26
+Toothpaste,Personal Care,Fortune,255.23,13,3317.99,Kirana Store,Chennai,Semi-Urban,2025-06-18,11.26,3.0,254.94,Low,17.48
+Dal,Groceries,HUL,134.81,61,8223.41,Supermarket,Bangalore,Urban,2025-08-04,22.38,3.5,146.49,High,18.34
+Dal,Groceries,Reliance,174.3,15,2614.5,Kirana Store,Hyderabad,Semi-Urban,2026-03-28,28.4,3.6,157.53,Low,11.83
+Wheat Flour,Groceries,Local Brand,32.24,32,1031.68,Kirana Store,Pune,Semi-Urban,2026-01-08,11.55,2.0,33.45,Medium,19.58
+Dishwash Bar,Household,HUL,150.93,33,4980.69,Supermarket,Pune,Urban,2025-08-11,18.11,5.0,155.1,Medium,17.38
+Cooking Oil,Groceries,HUL,284.95,9,2564.55,Supermarket,Mumbai,Urban,2025-05-17,29.72,3.8,292.7,Low,23.6
+Detergent,Household,Patanjali,431.9,6,2591.4,Supermarket,Hyderabad,Urban,2025-12-13,9.65,2.6,471.54,Low,19.47
+Shampoo,Personal Care,Tata,141.97,17,2413.49,Supermarket,Ahmedabad,Urban,2026-03-07,19.38,3.1,144.99,Low,11.37
+Detergent,Household,Store Brand,350.51,13,4556.63,Kirana Store,Hyderabad,Rural,2026-03-29,6.5,2.7,379.17,Low,16.15
+Wheat Flour,Groceries,Local Brand,116.03,35,4061.05,Kirana Store,Ahmedabad,Rural,2025-05-08,17.25,3.1,111.88,Medium,5.08
+Rice,Groceries,Patanjali,80.67,35,2823.45,Supermarket,Ahmedabad,Semi-Urban,2026-02-10,5.07,3.6,79.88,Medium,20.57
+Wheat Flour,Groceries,Patanjali,74.97,35,2623.95,Supermarket,Pune,Semi-Urban,2026-01-30,0.63,1.7,76.46,Medium,23.72
+Detergent,Household,Patanjali,128.75,23,2961.25,Kirana Store,Chennai,Semi-Urban,2025-04-28,5.13,2.3,139.61,Low,13.84
+Floor Cleaner,Household,Tata,688.45,8,5507.6,Mall,Delhi,Urban,2026-03-25,18.46,3.0,694.23,Low,14.36
+Wheat Flour,Groceries,Dabur,119.15,18,2144.7,Kirana Store,Pune,Rural,2025-10-12,25.99,3.5,127.07,Low,11.7
+Hair Oil,Personal Care,Local Brand,115.92,21,2434.32,Kirana Store,Mumbai,Rural,2026-03-06,7.81,3.9,122.71,Low,15.42
+Cooking Oil,Groceries,Store Brand,47.92,39,1868.88,Kirana Store,Hyderabad,Rural,2025-12-04,5.12,2.6,51.99,Medium,19.32
+Wheat Flour,Groceries,Patanjali,79.98,46,3679.08,Kirana Store,Chennai,Urban,2025-06-16,29.06,3.3,86.1,Medium,10.56
+Detergent,Household,HUL,258.49,19,4911.31,Supermarket,Pune,Urban,2025-08-03,10.09,4.4,235.8,Low,17.88
+Detergent,Household,P&G,614.66,10,6146.6,Supermarket,Delhi,Urban,2025-09-01,8.09,4.1,628.21,Low,17.65
+Dishwash Bar,Household,Tata,159.22,49,7801.78,Supermarket,Delhi,Urban,2026-01-13,2.86,3.1,163.93,Medium,22.75
+Toothpaste,Personal Care,Patanjali,97.05,31,3008.55,Kirana Store,Ahmedabad,Rural,2025-04-12,6.79,2.6,99.34,Medium,15.95
+Soap,Personal Care,HUL,387.15,23,8904.45,Mall,Hyderabad,Urban,2025-07-28,26.81,4.2,403.37,Low,11.51
+Toothpaste,Personal Care,Patanjali,263.73,19,5010.87,Supermarket,Chennai,Semi-Urban,2025-12-27,18.85,2.5,242.11,Low,14.59
+Wheat Flour,Groceries,Fortune,243.14,12,2917.68,Kirana Store,Delhi,Urban,2025-11-06,8.12,4.1,225.68,Low,28.61
+Dishwash Bar,Household,Aashirvaad,112.8,25,2820.0,Kirana Store,Delhi,Urban,2026-03-09,5.33,4.6,116.42,Low,28.77
+Floor Cleaner,Household,Tata,135.15,45,6081.75,Mall,Delhi,Urban,2026-02-13,6.13,4.6,121.81,Medium,15.44
+Wheat Flour,Groceries,Aashirvaad,241.89,25,6047.25,Mall,Pune,Urban,2025-08-23,4.59,3.3,242.07,Low,19.82
+Rice,Groceries,Reliance,123.43,33,4073.19,Supermarket,Mumbai,Urban,2025-12-20,10.96,2.3,114.64,Medium,17.74
+Rice,Groceries,Patanjali,68.2,62,4228.4,Supermarket,Chennai,Urban,2025-10-12,24.3,4.1,65.83,High,19.66
+Cooking Oil,Groceries,HUL,131.42,36,4731.12,Supermarket,Ahmedabad,Urban,2026-01-24,18.3,3.4,129.79,Medium,12.71
+Toothpaste,Personal Care,P&G,354.71,16,5675.36,Mall,Delhi,Urban,2025-10-06,25.58,3.2,358.28,Low,14.39
+Dishwash Bar,Household,HUL,104.87,34,3565.58,Supermarket,Chennai,Urban,2025-12-27,12.95,3.3,114.73,Medium,25.17
+Soap,Personal Care,P&G,112.56,32,3601.92,Supermarket,Hyderabad,Urban,2025-04-27,22.17,4.6,109.08,Medium,19.59
+Dal,Groceries,P&G,209.7,42,8807.4,Supermarket,Delhi,Urban,2025-08-27,16.14,3.6,226.96,Medium,10.28
+Toothpaste,Personal Care,Store Brand,135.99,37,5031.63,Kirana Store,Chennai,Rural,2025-11-09,15.39,2.5,123.72,Medium,14.51
+Cooking Oil,Groceries,Patanjali,110.82,58,6427.56,Kirana Store,Chennai,Semi-Urban,2025-09-02,29.82,2.7,105.78,Medium,8.48
+Shampoo,Personal Care,Tata,387.55,17,6588.35,Mall,Mumbai,Urban,2025-08-08,10.82,4.9,420.84,Low,23.92
+Sugar,Groceries,Patanjali,41.83,18,752.94,Kirana Store,Hyderabad,Urban,2025-09-08,2.99,2.0,39.04,Low,11.01
+Hair Oil,Personal Care,Store Brand,26.82,39,1045.98,Kirana Store,Hyderabad,Semi-Urban,2025-07-11,4.41,1.8,25.41,Medium,21.97
+Cooking Oil,Groceries,Dabur,45.78,19,869.82,Supermarket,Delhi,Urban,2025-05-05,15.49,4.0,50.15,Low,11.27
+Detergent,Household,Aashirvaad,535.44,10,5354.4,Supermarket,Ahmedabad,Urban,2025-09-04,3.95,4.5,521.43,Low,26.12
+Shampoo,Personal Care,Fortune,244.46,28,6844.88,Kirana Store,Pune,Urban,2025-10-31,19.9,3.2,252.67,Low,20.31
+Dishwash Bar,Household,Reliance,137.62,50,6881.0,Kirana Store,Hyderabad,Semi-Urban,2025-07-19,8.17,2.8,139.38,Medium,22.16
+Wheat Flour,Groceries,HUL,135.78,18,2444.04,Mall,Hyderabad,Urban,2026-03-20,24.28,3.7,127.42,Low,13.7
+Rice,Groceries,Tata,251.72,11,2768.92,Supermarket,Delhi,Urban,2025-06-16,8.29,4.2,237.72,Low,24.79
+Cooking Oil,Groceries,Store Brand,147.69,20,2953.8,Mall,Chennai,Urban,2025-09-07,17.04,3.6,136.5,Low,14.2
+Dishwash Bar,Household,Local Brand,290.29,11,3193.19,Supermarket,Chennai,Semi-Urban,2025-10-12,20.9,2.6,311.61,Low,13.62
+Detergent,Household,Dabur,195.39,25,4884.75,Kirana Store,Mumbai,Semi-Urban,2025-08-14,10.18,3.7,198.9,Low,13.5
+Toothpaste,Personal Care,Local Brand,173.12,38,6578.56,Supermarket,Bangalore,Rural,2025-04-26,7.83,2.1,179.21,Medium,18.71
+Floor Cleaner,Household,Patanjali,250.26,9,2252.34,Kirana Store,Pune,Semi-Urban,2025-05-06,14.11,2.8,269.8,Low,23.3
+Wheat Flour,Groceries,Tata,65.7,50,3285.0,Mall,Hyderabad,Urban,2025-07-29,23.69,3.5,70.49,Medium,22.54
+Cooking Oil,Groceries,Reliance,59.36,31,1840.16,Mall,Ahmedabad,Urban,2026-01-12,10.72,2.6,62.25,Medium,18.37
+Shampoo,Personal Care,Store Brand,145.97,12,1751.64,Kirana Store,Hyderabad,Rural,2025-08-03,3.57,3.8,132.63,Low,18.59
+Detergent,Household,Reliance,216.2,34,7350.8,Kirana Store,Mumbai,Semi-Urban,2025-08-03,13.98,1.7,233.16,Medium,21.46
+Dishwash Bar,Household,Aashirvaad,391.14,8,3129.12,Mall,Pune,Urban,2025-09-21,5.22,3.9,368.61,Low,22.06
+Floor Cleaner,Household,P&G,169.64,19,3223.16,Supermarket,Ahmedabad,Urban,2026-01-27,16.74,3.5,157.39,Low,23.64
+Cooking Oil,Groceries,Tata,170.78,41,7001.98,Supermarket,Ahmedabad,Urban,2025-04-09,12.62,3.5,173.3,Medium,19.59
+Cooking Oil,Groceries,Aashirvaad,87.97,39,3430.83,Mall,Pune,Urban,2026-03-10,9.9,3.6,96.19,Medium,16.11
+Dishwash Bar,Household,Aashirvaad,700.2,28,19605.6,Mall,Ahmedabad,Urban,2025-10-04,25.08,3.8,677.01,Low,23.77
+Cooking Oil,Groceries,Store Brand,104.68,39,4082.52,Kirana Store,Delhi,Semi-Urban,2025-04-14,1.92,1.7,100.45,Medium,20.31
+Sugar,Groceries,HUL,202.06,46,9294.76,Supermarket,Mumbai,Urban,2025-11-01,3.91,4.2,192.69,Medium,16.74
+Soap,Personal Care,Local Brand,116.5,16,1864.0,Kirana Store,Delhi,Rural,2026-03-26,16.63,3.7,107.89,Low,9.18
+Shampoo,Personal Care,Dabur,219.96,43,9458.28,Supermarket,Mumbai,Semi-Urban,2025-12-10,12.25,2.6,214.18,Medium,23.97
+Cooking Oil,Groceries,Local Brand,30.72,95,2918.4,Kirana Store,Ahmedabad,Rural,2025-12-05,26.95,1.6,30.93,High,6.04
+Detergent,Household,Local Brand,319.02,9,2871.18,Mall,Chennai,Urban,2025-12-14,0.92,3.8,309.89,Low,22.47
+Detergent,Household,Store Brand,78.6,26,2043.6,Kirana Store,Pune,Rural,2025-11-09,14.99,1.8,73.21,Low,21.12
+Detergent,Household,Fortune,640.42,29,18572.18,Kirana Store,Ahmedabad,Urban,2025-05-05,24.84,3.3,596.13,Low,16.99
+Sugar,Groceries,Reliance,91.58,33,3022.14,Mall,Mumbai,Urban,2026-01-13,20.34,3.6,94.79,Medium,14.75
+Sugar,Groceries,HUL,188.5,47,8859.5,Mall,Pune,Urban,2025-09-27,3.88,3.9,185.59,Medium,18.07
+Shampoo,Personal Care,P&G,127.43,18,2293.74,Supermarket,Chennai,Urban,2026-02-01,28.17,4.6,128.56,Low,12.15
+Dishwash Bar,Household,Aashirvaad,614.43,31,19047.33,Supermarket,Mumbai,Semi-Urban,2026-01-11,24.91,3.4,559.1,Medium,19.1
+Detergent,Household,Patanjali,327.72,9,2949.48,Supermarket,Pune,Urban,2025-11-13,22.53,4.1,318.49,Low,14.91
+Soap,Personal Care,Local Brand,51.78,25,1294.5,Kirana Store,Bangalore,Rural,2025-12-01,2.17,3.2,53.86,Low,19.68
+Detergent,Household,Fortune,435.16,16,6962.56,Kirana Store,Pune,Semi-Urban,2025-06-27,29.95,4.6,444.34,Low,23.01
+Wheat Flour,Groceries,Fortune,99.27,35,3474.45,Supermarket,Hyderabad,Urban,2025-09-04,19.49,4.4,95.61,Medium,15.55
+Sugar,Groceries,Aashirvaad,84.74,53,4491.22,Supermarket,Bangalore,Urban,2025-06-25,21.14,4.5,83.9,Medium,18.24
+Floor Cleaner,Household,Store Brand,154.27,36,5553.72,Kirana Store,Bangalore,Rural,2025-04-09,25.85,2.2,146.84,Medium,11.05
+Floor Cleaner,Household,Aashirvaad,442.91,8,3543.28,Kirana Store,Mumbai,Urban,2025-10-01,17.48,3.3,416.47,Low,13.9
+Detergent,Household,Patanjali,104.24,48,5003.52,Supermarket,Hyderabad,Urban,2025-12-24,4.8,4.2,107.04,Medium,22.91
+Toothpaste,Personal Care,Fortune,238.12,18,4286.16,Supermarket,Chennai,Semi-Urban,2026-03-19,4.83,4.1,232.26,Low,17.39
+Floor Cleaner,Household,Local Brand,167.41,46,7700.86,Kirana Store,Hyderabad,Rural,2025-10-02,11.82,4.0,164.57,Medium,11.72
+Rice,Groceries,Aashirvaad,184.15,46,8470.9,Mall,Chennai,Urban,2025-12-31,9.76,4.4,201.01,Medium,19.14
+Detergent,Household,Aashirvaad,446.24,9,4016.16,Supermarket,Ahmedabad,Urban,2025-06-22,4.39,4.2,463.71,Low,18.37
+Floor Cleaner,Household,Dabur,258.29,63,16272.27,Kirana Store,Pune,Semi-Urban,2026-02-09,25.11,2.6,283.84,High,17.38
+Shampoo,Personal Care,Dabur,158.27,20,3165.4,Supermarket,Bangalore,Semi-Urban,2026-01-07,10.43,3.5,152.96,Low,22.48
+Floor Cleaner,Household,HUL,318.12,16,5089.92,Kirana Store,Chennai,Rural,2026-02-28,6.38,3.4,299.22,Low,27.49
+Detergent,Household,Dabur,54.65,39,2131.35,Supermarket,Chennai,Urban,2025-06-04,27.36,2.3,59.23,Medium,15.78
+Dal,Groceries,Dabur,46.97,27,1268.19,Kirana Store,Chennai,Semi-Urban,2025-07-11,6.02,2.8,49.43,Low,15.55
+Dal,Groceries,Store Brand,134.85,20,2697.0,Kirana Store,Mumbai,Urban,2025-12-10,3.6,2.5,131.62,Low,15.8
+Floor Cleaner,Household,Store Brand,379.31,16,6068.96,Mall,Hyderabad,Urban,2025-06-09,9.55,1.8,373.87,Low,14.1
+Toothpaste,Personal Care,Fortune,130.01,33,4290.33,Supermarket,Bangalore,Urban,2026-03-21,16.29,3.0,128.29,Medium,14.9
+Floor Cleaner,Household,Dabur,212.42,52,11045.84,Supermarket,Delhi,Urban,2025-10-16,21.73,2.3,192.31,Medium,5.96
+Toothpaste,Personal Care,Patanjali,272.87,10,2728.7,Supermarket,Pune,Urban,2025-05-23,8.69,1.6,261.19,Low,16.18
+Dishwash Bar,Household,Patanjali,413.27,7,2892.89,Supermarket,Hyderabad,Urban,2026-01-23,10.1,2.3,437.01,Low,19.43
+Shampoo,Personal Care,Aashirvaad,59.53,51,3036.03,Mall,Chennai,Urban,2026-01-17,25.56,3.3,55.07,Medium,21.61
+Dishwash Bar,Household,Fortune,126.32,20,2526.4,Kirana Store,Pune,Semi-Urban,2025-04-21,11.77,3.6,123.77,Low,22.96
+Hair Oil,Personal Care,Local Brand,98.54,46,4532.84,Kirana Store,Ahmedabad,Rural,2025-11-18,3.12,4.4,103.62,Medium,19.72
+Soap,Personal Care,Reliance,203.0,46,9338.0,Mall,Chennai,Urban,2026-02-08,15.78,4.5,192.68,Medium,19.93
+Detergent,Household,Reliance,180.75,36,6507.0,Kirana Store,Chennai,Semi-Urban,2025-12-18,25.91,2.8,175.87,Medium,8.99
+Hair Oil,Personal Care,Store Brand,215.55,49,10561.95,Kirana Store,Hyderabad,Rural,2025-05-24,20.9,3.0,204.21,Medium,15.06
+Toothpaste,Personal Care,Store Brand,152.47,42,6403.74,Kirana Store,Ahmedabad,Rural,2026-04-01,23.58,4.1,167.23,Medium,12.77
+Dishwash Bar,Household,Tata,274.25,23,6307.75,Supermarket,Delhi,Urban,2026-01-25,0.14,3.9,270.55,Low,15.92
+Hair Oil,Personal Care,Reliance,149.99,19,2849.81,Kirana Store,Chennai,Semi-Urban,2025-06-24,9.94,2.5,152.88,Low,12.65
+Soap,Personal Care,Dabur,244.38,36,8797.68,Kirana Store,Pune,Semi-Urban,2025-09-05,25.31,4.1,245.68,Medium,15.02
+Sugar,Groceries,Store Brand,87.68,22,1928.96,Kirana Store,Ahmedabad,Rural,2025-06-29,9.66,2.0,80.9,Low,13.8
+Soap,Personal Care,Dabur,226.25,24,5430.0,Mall,Mumbai,Urban,2025-07-07,3.39,4.3,231.48,Low,19.46
+Floor Cleaner,Household,Local Brand,220.14,19,4182.66,Kirana Store,Bangalore,Rural,2026-02-26,8.85,4.0,208.46,Low,13.63
+Rice,Groceries,Store Brand,38.2,64,2444.8,Kirana Store,Delhi,Rural,2025-05-12,12.76,4.2,36.02,High,23.34
+Dishwash Bar,Household,Store Brand,237.78,11,2615.58,Mall,Ahmedabad,Urban,2026-01-06,6.91,2.4,229.65,Low,13.19
+Wheat Flour,Groceries,P&G,91.57,49,4486.93,Mall,Mumbai,Urban,2026-03-31,22.46,3.1,99.84,Medium,22.94
+Wheat Flour,Groceries,Reliance,89.44,44,3935.36,Kirana Store,Hyderabad,Rural,2025-06-04,28.3,1.8,83.08,Medium,13.18
+Floor Cleaner,Household,Reliance,335.3,9,3017.7,Supermarket,Bangalore,Urban,2026-04-03,24.92,3.5,315.09,Low,8.05
+Wheat Flour,Groceries,Reliance,116.86,40,4674.4,Supermarket,Delhi,Urban,2025-06-25,25.19,3.2,125.1,Medium,7.55
+Rice,Groceries,Reliance,89.53,10,895.3,Kirana Store,Bangalore,Rural,2025-08-18,12.34,1.8,91.2,Low,18.3
+Detergent,Household,Patanjali,256.58,13,3335.54,Kirana Store,Bangalore,Semi-Urban,2026-01-22,5.01,1.6,275.76,Low,15.78
+Dal,Groceries,Reliance,92.84,38,3527.92,Mall,Hyderabad,Semi-Urban,2025-10-05,2.8,2.1,99.67,Medium,18.84
+Toothpaste,Personal Care,Tata,219.26,44,9647.44,Kirana Store,Pune,Urban,2025-04-08,25.97,3.8,207.2,Medium,18.4
+Sugar,Groceries,Patanjali,79.39,38,3016.82,Supermarket,Pune,Urban,2025-11-06,6.29,3.8,75.4,Medium,22.66
+Rice,Groceries,P&G,94.99,39,3704.61,Mall,Mumbai,Semi-Urban,2025-11-21,26.2,4.8,86.54,Medium,10.26
+Shampoo,Personal Care,Store Brand,149.99,20,2999.8,Kirana Store,Hyderabad,Semi-Urban,2026-03-19,1.93,1.6,154.01,Low,19.36
+Toothpaste,Personal Care,Dabur,277.99,18,5003.82,Kirana Store,Delhi,Semi-Urban,2025-10-25,28.39,3.5,279.0,Low,5.37
+Dal,Groceries,Fortune,140.97,44,6202.68,Mall,Chennai,Urban,2026-02-14,4.79,4.7,146.75,Medium,16.41
+Floor Cleaner,Household,Aashirvaad,396.1,32,12675.2,Kirana Store,Pune,Urban,2025-11-20,23.77,3.1,384.52,Medium,14.92
+Soap,Personal Care,Local Brand,22.98,42,965.16,Supermarket,Chennai,Semi-Urban,2025-05-24,26.1,1.9,22.41,Medium,12.59
+Dal,Groceries,Store Brand,45.14,18,812.52,Supermarket,Delhi,Rural,2025-12-04,15.49,2.9,47.26,Low,10.83
+Floor Cleaner,Household,Dabur,255.37,22,5618.14,Supermarket,Chennai,Semi-Urban,2026-02-06,28.33,4.4,243.63,Low,13.15
+Floor Cleaner,Household,Patanjali,475.11,12,5701.32,Mall,Chennai,Urban,2026-01-05,5.49,3.1,520.4,Low,20.22
+Dishwash Bar,Household,Local Brand,256.08,8,2048.64,Supermarket,Chennai,Urban,2025-04-23,16.84,3.3,232.86,Low,16.9
+Toothpaste,Personal Care,Patanjali,93.46,24,2243.04,Supermarket,Chennai,Semi-Urban,2025-06-09,6.81,2.1,85.99,Low,13.28
+Detergent,Household,Local Brand,171.13,50,8556.5,Kirana Store,Hyderabad,Rural,2025-11-30,26.56,3.1,155.37,Medium,13.12
+Cooking Oil,Groceries,P&G,268.34,25,6708.5,Mall,Pune,Urban,2025-07-10,19.86,4.2,283.31,Low,11.1
+Detergent,Household,Store Brand,333.85,15,5007.75,Supermarket,Bangalore,Urban,2025-12-19,10.8,3.0,346.02,Low,12.97
+Toothpaste,Personal Care,Aashirvaad,191.75,34,6519.5,Kirana Store,Bangalore,Urban,2025-12-17,6.15,3.5,209.32,Medium,23.17
+Floor Cleaner,Household,Local Brand,83.62,30,2508.6,Supermarket,Hyderabad,Urban,2025-05-13,6.98,3.4,91.86,Low,17.74
+Soap,Personal Care,Fortune,301.58,21,6333.18,Kirana Store,Ahmedabad,Urban,2025-08-06,0.1,4.5,326.63,Low,24.99
+Dishwash Bar,Household,Patanjali,444.26,22,9773.72,Kirana Store,Pune,Rural,2025-07-24,16.93,3.3,403.96,Low,12.73
+Floor Cleaner,Household,Local Brand,335.39,26,8720.14,Kirana Store,Mumbai,Rural,2025-07-29,28.21,3.1,333.15,Low,8.01
+Dishwash Bar,Household,Store Brand,89.01,32,2848.32,Kirana Store,Bangalore,Rural,2025-05-23,20.99,2.6,80.23,Medium,11.16
+Detergent,Household,Store Brand,122.15,33,4030.95,Kirana Store,Hyderabad,Rural,2025-07-17,10.63,2.0,122.58,Medium,10.28
+Rice,Groceries,P&G,182.87,38,6949.06,Mall,Mumbai,Urban,2025-12-25,16.25,3.3,194.79,Medium,17.98
+Sugar,Groceries,Dabur,145.43,17,2472.31,Mall,Chennai,Urban,2026-03-02,16.38,3.0,132.08,Low,7.19
+Dishwash Bar,Household,Store Brand,121.01,38,4598.38,Supermarket,Chennai,Rural,2025-10-25,0.92,1.8,125.15,Medium,15.4
+Hair Oil,Personal Care,Store Brand,65.88,12,790.56,Kirana Store,Delhi,Semi-Urban,2025-04-17,5.65,2.3,64.12,Low,13.92
+Floor Cleaner,Household,Reliance,340.79,10,3407.9,Kirana Store,Delhi,Semi-Urban,2026-02-14,8.94,3.2,321.36,Low,18.54
+Dal,Groceries,Tata,223.97,17,3807.49,Mall,Chennai,Urban,2026-02-18,15.79,3.9,214.92,Low,23.67
+Dishwash Bar,Household,Dabur,419.44,32,13422.08,Kirana Store,Hyderabad,Urban,2025-07-06,28.83,3.0,388.01,Medium,12.64
+Shampoo,Personal Care,Dabur,190.15,13,2471.95,Kirana Store,Chennai,Semi-Urban,2025-06-23,24.27,2.5,199.72,Low,18.19
+Sugar,Groceries,Aashirvaad,112.99,33,3728.67,Mall,Delhi,Urban,2025-12-06,10.01,3.3,116.49,Medium,17.14
+Hair Oil,Personal Care,Aashirvaad,151.81,14,2125.34,Mall,Pune,Urban,2025-06-14,26.62,3.5,160.99,Low,11.02
+Rice,Groceries,P&G,108.07,27,2917.89,Supermarket,Hyderabad,Urban,2025-07-22,9.43,4.9,104.9,Low,24.26
+Floor Cleaner,Household,Reliance,138.0,29,4002.0,Kirana Store,Delhi,Semi-Urban,2025-08-15,5.04,2.1,151.58,Low,11.92
+Toothpaste,Personal Care,Local Brand,122.06,58,7079.48,Kirana Store,Delhi,Rural,2025-07-29,20.18,4.4,129.33,Medium,11.88
+Soap,Personal Care,Local Brand,69.89,63,4403.07,Kirana Store,Ahmedabad,Rural,2025-05-02,23.74,3.9,73.25,High,17.02
+Dishwash Bar,Household,Dabur,45.87,43,1972.41,Supermarket,Bangalore,Semi-Urban,2026-01-23,7.32,4.0,48.35,Medium,14.98
+Detergent,Household,Store Brand,278.39,16,4454.24,Kirana Store,Bangalore,Rural,2026-01-20,21.8,4.1,273.79,Low,13.97
+Cooking Oil,Groceries,Store Brand,33.3,81,2697.3,Supermarket,Ahmedabad,Semi-Urban,2025-05-15,29.15,1.8,35.15,High,5.02
+Wheat Flour,Groceries,Dabur,52.8,84,4435.2,Kirana Store,Mumbai,Semi-Urban,2025-09-13,27.34,3.5,50.86,High,7.41
+Floor Cleaner,Household,Reliance,213.09,10,2130.9,Supermarket,Pune,Semi-Urban,2025-06-14,7.19,1.8,222.25,Low,16.59
+Hair Oil,Personal Care,Tata,371.16,18,6680.88,Supermarket,Chennai,Urban,2025-04-16,13.25,4.9,352.8,Low,23.52
+Toothpaste,Personal Care,HUL,287.52,21,6037.92,Supermarket,Ahmedabad,Urban,2026-03-05,16.56,4.6,265.56,Low,18.74
+Sugar,Groceries,Store Brand,52.66,72,3791.52,Kirana Store,Pune,Semi-Urban,2026-02-14,23.16,2.5,53.04,High,19.59
+Wheat Flour,Groceries,Dabur,180.45,26,4691.7,Kirana Store,Hyderabad,Urban,2025-11-18,4.1,2.4,190.97,Low,11.98
+Detergent,Household,Store Brand,225.19,10,2251.9,Kirana Store,Pune,Semi-Urban,2025-04-10,6.27,2.6,229.44,Low,24.23
+Cooking Oil,Groceries,Dabur,49.95,81,4045.95,Kirana Store,Pune,Urban,2026-01-23,3.63,4.4,50.07,High,20.88
+Floor Cleaner,Household,Dabur,279.67,23,6432.41,Supermarket,Delhi,Semi-Urban,2026-01-16,1.13,2.0,284.2,Low,20.95
+Wheat Flour,Groceries,Store Brand,34.98,72,2518.56,Kirana Store,Pune,Rural,2025-11-03,14.84,2.3,34.0,High,23.74
+Wheat Flour,Groceries,Store Brand,111.68,61,6812.48,Kirana Store,Bangalore,Semi-Urban,2026-03-23,21.89,4.4,113.35,High,18.77
+Floor Cleaner,Household,Store Brand,336.65,7,2356.55,Kirana Store,Bangalore,Semi-Urban,2025-12-30,28.89,2.3,364.13,Low,8.34
+Wheat Flour,Groceries,Store Brand,107.65,27,2906.55,Kirana Store,Bangalore,Rural,2025-07-21,11.06,1.7,116.44,Low,23.18
+Rice,Groceries,HUL,249.66,15,3744.9,Supermarket,Ahmedabad,Urban,2025-08-14,8.13,3.8,262.36,Low,23.82
+Dishwash Bar,Household,Reliance,192.99,34,6561.66,Mall,Chennai,Semi-Urban,2026-01-13,17.87,1.8,189.23,Medium,14.43
+Detergent,Household,Fortune,368.26,20,7365.2,Supermarket,Hyderabad,Urban,2025-09-05,5.74,4.2,371.95,Low,23.74
+Detergent,Household,Store Brand,236.0,11,2596.0,Kirana Store,Mumbai,Rural,2025-12-12,13.63,1.6,231.18,Low,24.51
+Detergent,Household,Store Brand,257.83,7,1804.81,Supermarket,Bangalore,Semi-Urban,2025-09-19,6.01,4.0,239.61,Low,21.61
+Soap,Personal Care,Reliance,143.59,28,4020.52,Kirana Store,Bangalore,Semi-Urban,2025-05-23,1.16,3.2,134.21,Low,16.11
+Floor Cleaner,Household,Tata,319.03,9,2871.27,Supermarket,Bangalore,Urban,2025-12-03,16.01,3.9,349.08,Low,19.43
+Floor Cleaner,Household,Dabur,157.1,45,7069.5,Kirana Store,Chennai,Rural,2025-08-04,17.78,2.6,145.39,Medium,15.94
+Soap,Personal Care,Dabur,64.82,35,2268.7,Supermarket,Mumbai,Urban,2025-12-09,20.04,2.0,64.31,Medium,14.01
+Hair Oil,Personal Care,Tata,46.14,64,2952.96,Supermarket,Pune,Urban,2025-09-16,10.12,3.8,46.24,High,28.14
+Toothpaste,Personal Care,Dabur,103.32,57,5889.24,Mall,Hyderabad,Semi-Urban,2025-04-28,23.86,4.2,112.44,Medium,11.27
+Detergent,Household,Reliance,413.16,15,6197.4,Kirana Store,Pune,Semi-Urban,2025-09-22,26.86,3.5,375.69,Low,15.96
+Rice,Groceries,Reliance,91.24,38,3467.12,Kirana Store,Hyderabad,Semi-Urban,2025-08-04,3.26,2.1,97.89,Medium,12.76
+Shampoo,Personal Care,Local Brand,156.04,39,6085.56,Supermarket,Ahmedabad,Semi-Urban,2026-02-17,18.01,2.9,144.57,Medium,7.18
+Hair Oil,Personal Care,Local Brand,173.12,29,5020.48,Supermarket,Ahmedabad,Urban,2025-06-27,12.83,4.3,170.33,Low,24.2
+Detergent,Household,Patanjali,451.21,10,4512.1,Supermarket,Hyderabad,Rural,2025-06-09,11.33,2.9,413.67,Low,12.06
+Soap,Personal Care,Local Brand,158.11,29,4585.19,Kirana Store,Mumbai,Semi-Urban,2025-05-02,27.74,1.8,158.7,Low,11.78
+Cooking Oil,Groceries,Local Brand,39.73,74,2940.02,Kirana Store,Delhi,Rural,2025-11-12,20.68,4.0,38.14,High,5.76
+Shampoo,Personal Care,Fortune,29.72,50,1486.0,Kirana Store,Pune,Urban,2025-08-03,14.94,3.3,28.46,Medium,24.56
+Floor Cleaner,Household,Store Brand,116.57,20,2331.4,Kirana Store,Pune,Urban,2025-04-19,22.45,4.2,124.98,Low,18.17
+Toothpaste,Personal Care,P&G,339.78,17,5776.26,Mall,Delhi,Urban,2025-05-31,17.3,3.9,330.95,Low,17.05
+Cooking Oil,Groceries,Dabur,97.91,48,4699.68,Kirana Store,Bangalore,Urban,2025-05-07,22.97,4.4,94.67,Medium,17.37
+Shampoo,Personal Care,Reliance,184.12,20,3682.4,Mall,Delhi,Urban,2025-09-27,23.08,1.9,179.78,Low,14.38
+Rice,Groceries,Aashirvaad,62.55,100,6255.0,Supermarket,Pune,Semi-Urban,2025-09-03,22.61,3.5,60.2,High,23.62
+Shampoo,Personal Care,HUL,88.92,33,2934.36,Supermarket,Hyderabad,Urban,2025-10-18,11.27,3.2,97.2,Medium,26.97
+Detergent,Household,Local Brand,339.7,22,7473.4,Kirana Store,Bangalore,Rural,2025-08-18,28.0,4.0,344.0,Low,15.55
+Hair Oil,Personal Care,Patanjali,111.37,23,2561.51,Mall,Delhi,Urban,2025-09-17,21.1,4.3,100.34,Low,11.67
+Wheat Flour,Groceries,Fortune,63.65,11,700.15,Supermarket,Delhi,Urban,2025-06-30,9.24,5.0,69.72,Low,25.5
+Cooking Oil,Groceries,Fortune,120.83,52,6283.16,Supermarket,Chennai,Urban,2025-04-17,21.91,4.5,122.61,Medium,11.51
+Detergent,Household,Dabur,366.16,9,3295.44,Kirana Store,Bangalore,Semi-Urban,2025-06-22,16.2,3.4,378.3,Low,8.22
+Sugar,Groceries,Store Brand,130.73,40,5229.2,Kirana Store,Mumbai,Rural,2025-11-17,25.46,4.2,123.1,Medium,13.51
+Dal,Groceries,Store Brand,49.04,30,1471.2,Kirana Store,Delhi,Urban,2026-02-05,6.35,3.6,52.01,Low,22.14
+Dishwash Bar,Household,Reliance,381.98,27,10313.46,Kirana Store,Bangalore,Rural,2025-09-05,22.82,2.1,351.14,Low,11.2
+Sugar,Groceries,Tata,181.69,41,7449.29,Supermarket,Delhi,Urban,2026-02-28,18.31,3.6,181.81,Medium,19.78
+Toothpaste,Personal Care,Aashirvaad,60.25,39,2349.75,Supermarket,Bangalore,Urban,2026-01-20,18.86,5.0,65.86,Medium,21.78
+Rice,Groceries,HUL,129.66,43,5575.38,Supermarket,Hyderabad,Urban,2026-01-23,10.25,4.9,139.96,Medium,24.64
+Shampoo,Personal Care,Aashirvaad,344.67,10,3446.7,Kirana Store,Hyderabad,Urban,2025-08-29,25.96,4.1,314.87,Low,17.34
+Dishwash Bar,Household,Aashirvaad,487.22,23,11206.06,Kirana Store,Hyderabad,Urban,2026-03-04,29.68,4.5,521.93,Low,20.82
+Hair Oil,Personal Care,Reliance,182.86,32,5851.52,Mall,Bangalore,Semi-Urban,2025-07-05,13.18,3.5,169.18,Medium,14.55
+Wheat Flour,Groceries,Reliance,216.05,24,5185.2,Kirana Store,Ahmedabad,Semi-Urban,2026-04-02,1.27,3.4,233.47,Low,10.16
+Wheat Flour,Groceries,HUL,137.64,62,8533.68,Mall,Ahmedabad,Semi-Urban,2025-11-29,28.11,3.5,147.29,High,22.55
+Detergent,Household,Store Brand,145.97,38,5546.86,Kirana Store,Mumbai,Rural,2025-10-17,6.62,1.6,133.39,Medium,14.86
+Hair Oil,Personal Care,Local Brand,203.6,13,2646.8,Mall,Ahmedabad,Urban,2025-11-09,6.06,3.5,220.12,Low,21.22
+Toothpaste,Personal Care,Dabur,241.65,12,2899.8,Supermarket,Chennai,Urban,2025-07-04,14.22,3.5,253.66,Low,22.21
+Soap,Personal Care,Dabur,239.33,13,3111.29,Kirana Store,Bangalore,Semi-Urban,2025-09-15,28.1,3.0,223.22,Low,8.76
+Hair Oil,Personal Care,Local Brand,194.42,42,8165.64,Mall,Bangalore,Urban,2025-07-21,28.86,3.4,204.01,Medium,19.99
+Sugar,Groceries,Local Brand,77.72,17,1321.24,Mall,Delhi,Urban,2025-12-17,10.17,1.7,84.76,Low,23.92
+Sugar,Groceries,Tata,248.83,11,2737.13,Supermarket,Delhi,Urban,2025-08-18,10.0,3.6,242.23,Low,20.82
+Soap,Personal Care,Local Brand,174.64,36,6287.04,Supermarket,Bangalore,Semi-Urban,2026-02-14,1.31,3.0,181.84,Medium,19.13
+Floor Cleaner,Household,Reliance,272.94,17,4639.98,Kirana Store,Ahmedabad,Rural,2025-10-13,6.12,2.8,263.01,Low,22.44
+Dishwash Bar,Household,Aashirvaad,292.03,18,5256.54,Mall,Mumbai,Urban,2025-09-26,28.56,3.3,277.52,Low,11.5
+Cooking Oil,Groceries,Patanjali,141.35,11,1554.85,Supermarket,Ahmedabad,Semi-Urban,2025-08-04,0.19,2.5,136.78,Low,15.28
+Soap,Personal Care,Patanjali,95.51,15,1432.65,Supermarket,Hyderabad,Urban,2026-03-04,16.59,2.7,99.97,Low,16.87
+Cooking Oil,Groceries,Aashirvaad,116.44,40,4657.6,Supermarket,Chennai,Semi-Urban,2026-01-06,27.78,4.5,122.83,Medium,12.9
+Soap,Personal Care,Store Brand,106.42,10,1064.2,Kirana Store,Mumbai,Rural,2025-09-09,6.17,3.3,97.85,Low,23.34
+Hair Oil,Personal Care,Fortune,179.82,62,11148.84,Supermarket,Delhi,Urban,2025-11-07,25.43,4.6,179.09,High,10.21
+Rice,Groceries,Local Brand,53.37,17,907.29,Kirana Store,Delhi,Rural,2025-08-06,1.65,2.0,49.22,Low,10.71
+Soap,Personal Care,Tata,276.5,12,3318.0,Supermarket,Mumbai,Urban,2026-04-05,12.84,3.1,271.57,Low,18.5
+Rice,Groceries,Store Brand,86.11,47,4047.17,Kirana Store,Mumbai,Rural,2025-08-02,12.78,4.0,91.62,Medium,12.31
+Shampoo,Personal Care,HUL,248.84,11,2737.24,Kirana Store,Hyderabad,Urban,2025-09-27,18.2,3.8,238.39,Low,24.02
+Wheat Flour,Groceries,Dabur,186.27,29,5401.83,Kirana Store,Chennai,Semi-Urban,2025-05-16,3.44,2.9,173.8,Low,12.88
+Sugar,Groceries,Tata,93.02,31,2883.62,Kirana Store,Chennai,Semi-Urban,2025-05-19,20.02,5.0,96.86,Medium,21.93
+Cooking Oil,Groceries,Local Brand,68.91,11,758.01,Kirana Store,Bangalore,Urban,2025-06-24,0.4,3.8,72.05,Low,16.77
+Rice,Groceries,Patanjali,101.09,24,2426.16,Supermarket,Pune,Semi-Urban,2025-09-08,10.34,3.5,96.5,Low,13.84
+Wheat Flour,Groceries,Tata,72.29,44,3180.76,Mall,Hyderabad,Urban,2025-04-26,2.4,4.3,67.49,Medium,28.57
+Sugar,Groceries,Patanjali,61.36,47,2883.92,Mall,Mumbai,Semi-Urban,2025-04-09,1.25,2.2,64.74,Medium,24.99
+Dal,Groceries,Aashirvaad,239.88,9,2158.92,Kirana Store,Chennai,Urban,2025-11-18,4.59,4.6,251.51,Low,23.65
+Cooking Oil,Groceries,Dabur,107.02,19,2033.38,Kirana Store,Hyderabad,Semi-Urban,2025-06-14,0.34,2.1,108.09,Low,12.36
+Hair Oil,Personal Care,Patanjali,22.07,30,662.1,Kirana Store,Delhi,Urban,2025-12-02,2.74,3.1,19.96,Low,15.14
+Shampoo,Personal Care,P&G,305.51,14,4277.14,Kirana Store,Mumbai,Urban,2026-02-21,15.1,4.4,297.44,Low,17.27
+Rice,Groceries,Local Brand,62.77,27,1694.79,Kirana Store,Delhi,Semi-Urban,2025-12-10,12.56,3.6,57.27,Low,24.84
+Dal,Groceries,Reliance,187.06,44,8230.64,Supermarket,Chennai,Semi-Urban,2025-07-27,22.78,2.2,193.35,Medium,5.55
+Detergent,Household,Dabur,449.87,15,6748.05,Kirana Store,Bangalore,Rural,2025-06-18,0.68,2.0,489.13,Low,17.7
+Shampoo,Personal Care,Patanjali,66.24,20,1324.8,Kirana Store,Mumbai,Semi-Urban,2025-08-02,16.71,3.4,72.85,Low,10.35
+Floor Cleaner,Household,Store Brand,94.53,20,1890.6,Kirana Store,Mumbai,Rural,2025-04-26,9.05,1.7,86.34,Low,16.54
+Dishwash Bar,Household,Fortune,282.29,16,4516.64,Supermarket,Bangalore,Urban,2025-12-18,28.41,3.5,292.83,Low,16.37
+Detergent,Household,Dabur,128.07,48,6147.36,Mall,Pune,Urban,2026-02-02,3.25,3.8,121.8,Medium,12.16
+Sugar,Groceries,Aashirvaad,84.51,41,3464.91,Mall,Delhi,Urban,2025-11-26,4.79,3.3,77.15,Medium,15.67
+Toothpaste,Personal Care,Tata,271.59,23,6246.57,Mall,Delhi,Urban,2025-10-24,9.82,3.6,294.28,Low,22.4
+Cooking Oil,Groceries,P&G,177.3,14,2482.2,Supermarket,Bangalore,Urban,2025-09-26,20.92,3.9,182.64,Low,16.88
+Soap,Personal Care,Dabur,162.2,53,8596.6,Supermarket,Delhi,Urban,2026-03-15,29.17,4.2,155.9,Medium,12.71
+Shampoo,Personal Care,HUL,158.24,39,6171.36,Supermarket,Delhi,Semi-Urban,2025-12-09,1.07,3.6,166.49,Medium,19.07
+Wheat Flour,Groceries,Dabur,157.63,31,4886.53,Kirana Store,Pune,Semi-Urban,2026-03-16,28.36,3.2,158.3,Medium,10.86
+Rice,Groceries,P&G,128.24,45,5770.8,Kirana Store,Bangalore,Semi-Urban,2026-03-12,7.41,3.8,125.61,Medium,18.09
+Floor Cleaner,Household,Reliance,88.07,14,1232.98,Supermarket,Delhi,Semi-Urban,2026-03-23,4.65,3.8,80.08,Low,22.94
+Shampoo,Personal Care,HUL,114.13,57,6505.41,Kirana Store,Ahmedabad,Urban,2025-07-20,27.23,4.8,117.97,Medium,21.97
+Dishwash Bar,Household,Aashirvaad,86.89,44,3823.16,Mall,Bangalore,Semi-Urban,2025-04-11,4.08,3.2,86.23,Medium,27.48
+Detergent,Household,Reliance,85.51,35,2992.85,Mall,Delhi,Semi-Urban,2025-09-14,23.72,4.0,81.47,Medium,19.9
+Soap,Personal Care,Local Brand,134.18,26,3488.68,Supermarket,Pune,Semi-Urban,2025-12-06,9.11,2.8,134.15,Low,14.95
+Floor Cleaner,Household,Patanjali,183.24,42,7696.08,Supermarket,Hyderabad,Urban,2026-02-20,3.19,3.0,167.12,Medium,11.97
+Rice,Groceries,Aashirvaad,240.81,59,14207.79,Mall,Hyderabad,Urban,2025-05-26,20.31,3.6,230.94,Medium,20.66
+Hair Oil,Personal Care,Store Brand,189.7,31,5880.7,Kirana Store,Bangalore,Rural,2025-10-08,15.15,2.4,201.09,Medium,5.45
+Wheat Flour,Groceries,Patanjali,118.64,43,5101.52,Supermarket,Bangalore,Urban,2026-02-28,5.87,4.1,129.48,Medium,17.56
+Cooking Oil,Groceries,Local Brand,133.65,26,3474.9,Kirana Store,Bangalore,Semi-Urban,2025-09-21,1.47,3.4,125.59,Low,20.9
+Hair Oil,Personal Care,Patanjali,232.78,17,3957.26,Supermarket,Pune,Urban,2025-10-17,3.12,4.3,255.09,Low,13.94
+Dal,Groceries,P&G,280.42,5,1402.1,Mall,Hyderabad,Urban,2025-04-25,4.74,4.8,262.77,Low,15.58
+Cooking Oil,Groceries,HUL,153.61,45,6912.45,Mall,Delhi,Urban,2026-01-31,4.41,3.1,163.32,Medium,17.0
+Wheat Flour,Groceries,Tata,105.53,20,2110.6,Supermarket,Mumbai,Semi-Urban,2025-11-05,7.98,3.4,100.27,Low,28.71
+Floor Cleaner,Household,Dabur,200.75,45,9033.75,Supermarket,Hyderabad,Semi-Urban,2025-11-14,11.72,2.1,218.48,Medium,12.28
+Cooking Oil,Groceries,Tata,242.44,17,4121.48,Supermarket,Chennai,Urban,2025-09-01,3.8,3.3,240.16,Low,17.15
+Shampoo,Personal Care,Store Brand,32.02,100,3202.0,Kirana Store,Mumbai,Semi-Urban,2026-02-04,25.81,3.0,34.24,High,15.56
+Dishwash Bar,Household,Patanjali,251.79,8,2014.32,Kirana Store,Hyderabad,Rural,2026-01-29,0.23,4.4,229.87,Low,20.98
+Toothpaste,Personal Care,Local Brand,21.01,58,1218.58,Supermarket,Mumbai,Semi-Urban,2025-09-20,27.53,3.5,19.29,Medium,15.59
+Dishwash Bar,Household,P&G,233.73,12,2804.76,Mall,Bangalore,Urban,2025-12-17,14.16,3.5,216.02,Low,17.23
+Rice,Groceries,Store Brand,158.2,23,3638.6,Supermarket,Chennai,Urban,2026-03-20,12.97,2.9,155.06,Low,12.63
+Rice,Groceries,HUL,228.16,15,3422.4,Mall,Chennai,Urban,2025-07-02,18.16,4.3,233.65,Low,11.31
+Floor Cleaner,Household,Store Brand,164.85,12,1978.2,Supermarket,Hyderabad,Semi-Urban,2025-05-09,18.33,2.0,175.29,Low,9.36
+Wheat Flour,Groceries,Tata,88.47,39,3450.33,Supermarket,Ahmedabad,Urban,2025-10-28,5.5,4.3,87.5,Medium,29.08
+Shampoo,Personal Care,Dabur,159.83,42,6712.86,Supermarket,Chennai,Semi-Urban,2025-09-26,5.67,3.4,163.73,Medium,18.76
+Rice,Groceries,Fortune,200.0,11,2200.0,Mall,Chennai,Urban,2026-03-23,0.96,3.4,211.14,Low,27.38
+Soap,Personal Care,Store Brand,89.38,23,2055.74,Kirana Store,Pune,Rural,2025-07-15,16.27,2.7,91.65,Low,16.58
+Detergent,Household,P&G,468.32,11,5151.52,Supermarket,Hyderabad,Urban,2025-07-07,8.65,3.8,474.01,Low,16.59
+Sugar,Groceries,Store Brand,41.47,36,1492.92,Kirana Store,Mumbai,Rural,2025-07-03,18.04,2.4,39.95,Medium,11.24
+Floor Cleaner,Household,HUL,203.46,38,7731.48,Mall,Bangalore,Urban,2025-11-10,5.89,3.1,193.74,Medium,26.14
+Rice,Groceries,Tata,92.99,27,2510.73,Supermarket,Bangalore,Urban,2025-08-29,27.12,4.1,91.72,Low,12.67
+Hair Oil,Personal Care,HUL,393.6,15,5904.0,Mall,Pune,Urban,2025-07-13,14.14,4.2,400.93,Low,20.42
+Cooking Oil,Groceries,Dabur,76.69,41,3144.29,Mall,Pune,Semi-Urban,2025-11-22,21.2,3.3,80.0,Medium,10.17
+Cooking Oil,Groceries,Local Brand,66.0,24,1584.0,Kirana Store,Chennai,Rural,2025-08-05,16.11,4.0,59.51,Low,18.39
+Hair Oil,Personal Care,Aashirvaad,161.63,22,3555.86,Mall,Pune,Urban,2025-09-09,7.28,3.7,157.11,Low,18.89
+Dal,Groceries,Fortune,132.2,14,1850.8,Supermarket,Ahmedabad,Urban,2025-09-09,23.46,4.7,124.14,Low,18.49
+Floor Cleaner,Household,Dabur,543.48,18,9782.64,Kirana Store,Hyderabad,Semi-Urban,2026-01-05,14.8,2.7,594.77,Low,19.77
+Shampoo,Personal Care,Reliance,77.0,22,1694.0,Supermarket,Mumbai,Semi-Urban,2025-12-10,1.62,4.1,83.58,Low,12.6
+Wheat Flour,Groceries,Patanjali,42.26,72,3042.72,Mall,Hyderabad,Urban,2026-03-30,28.85,3.2,46.18,High,15.95
+Rice,Groceries,Patanjali,184.28,10,1842.8,Supermarket,Ahmedabad,Semi-Urban,2025-06-19,0.71,2.1,184.52,Low,13.63
+Floor Cleaner,Household,Fortune,177.0,35,6195.0,Supermarket,Ahmedabad,Urban,2025-04-16,17.76,4.5,181.65,Medium,11.19
+Wheat Flour,Groceries,Fortune,260.57,11,2866.27,Supermarket,Ahmedabad,Urban,2025-12-23,22.7,3.9,258.46,Low,17.63
+Soap,Personal Care,Dabur,102.09,26,2654.34,Kirana Store,Hyderabad,Semi-Urban,2025-05-19,28.64,3.3,111.67,Low,12.68
+Shampoo,Personal Care,Reliance,207.87,19,3949.53,Kirana Store,Mumbai,Semi-Urban,2026-02-04,8.09,4.1,224.75,Low,11.67
+Hair Oil,Personal Care,Reliance,36.21,37,1339.77,Kirana Store,Pune,Semi-Urban,2026-03-28,9.93,3.4,37.91,Medium,20.09
+Floor Cleaner,Household,Local Brand,267.79,22,5891.38,Supermarket,Delhi,Semi-Urban,2026-01-15,5.11,4.3,251.48,Low,24.07
+Toothpaste,Personal Care,Tata,231.9,10,2319.0,Supermarket,Mumbai,Urban,2025-07-31,1.84,3.7,235.24,Low,21.36
+Hair Oil,Personal Care,Fortune,180.04,23,4140.92,Supermarket,Mumbai,Semi-Urban,2026-02-05,8.58,3.5,189.49,Low,23.9
+Floor Cleaner,Household,Aashirvaad,96.55,42,4055.1,Supermarket,Ahmedabad,Urban,2025-08-15,13.39,3.5,97.7,Medium,21.69
+Floor Cleaner,Household,Dabur,529.01,13,6877.13,Kirana Store,Chennai,Urban,2026-03-10,24.99,3.9,561.44,Low,10.52
+Floor Cleaner,Household,Aashirvaad,698.92,13,9085.96,Supermarket,Ahmedabad,Urban,2025-09-12,1.25,3.8,652.12,Low,24.2
+Dishwash Bar,Household,Store Brand,60.04,36,2161.44,Kirana Store,Hyderabad,Rural,2025-05-11,13.99,3.5,57.23,Medium,22.03
+Detergent,Household,Fortune,475.69,9,4281.21,Supermarket,Chennai,Urban,2025-12-07,0.97,4.1,508.49,Low,22.08
+Dishwash Bar,Household,Dabur,438.37,20,8767.4,Kirana Store,Delhi,Semi-Urban,2026-01-14,12.79,1.8,405.85,Low,19.8
+Detergent,Household,Fortune,378.95,13,4926.35,Supermarket,Delhi,Semi-Urban,2026-01-14,23.57,4.4,354.76,Low,10.85
+Toothpaste,Personal Care,Local Brand,35.65,59,2103.35,Mall,Hyderabad,Urban,2025-05-24,19.48,1.8,33.25,Medium,8.07
+Hair Oil,Personal Care,Aashirvaad,246.59,11,2712.49,Supermarket,Chennai,Urban,2025-08-18,9.79,4.6,224.19,Low,19.35
+Detergent,Household,Aashirvaad,618.86,14,8664.04,Supermarket,Ahmedabad,Semi-Urban,2025-05-27,10.13,4.2,585.31,Low,20.42
+Dal,Groceries,Store Brand,118.11,15,1771.65,Kirana Store,Chennai,Rural,2025-09-07,19.86,2.0,108.6,Low,8.42
+Detergent,Household,HUL,653.0,5,3265.0,Mall,Bangalore,Urban,2025-05-19,9.33,4.1,702.75,Low,29.51
+Shampoo,Personal Care,Patanjali,179.17,54,9675.18,Kirana Store,Bangalore,Urban,2025-12-31,29.95,2.5,166.46,Medium,6.74
+Cooking Oil,Groceries,Dabur,60.39,60,3623.4,Supermarket,Mumbai,Semi-Urban,2026-03-18,29.67,2.2,65.06,Medium,15.5
+Wheat Flour,Groceries,HUL,174.16,41,7140.56,Supermarket,Chennai,Urban,2026-01-27,2.43,4.8,184.23,Medium,21.73
+Hair Oil,Personal Care,Store Brand,132.65,35,4642.75,Kirana Store,Chennai,Rural,2025-08-24,0.85,3.1,125.23,Medium,19.49
+Cooking Oil,Groceries,HUL,93.04,40,3721.6,Supermarket,Hyderabad,Urban,2026-03-27,4.75,4.7,95.18,Medium,24.34
+Shampoo,Personal Care,Store Brand,139.89,32,4476.48,Kirana Store,Bangalore,Semi-Urban,2025-04-20,12.27,4.3,145.21,Medium,21.07
+Rice,Groceries,P&G,212.09,50,10604.5,Supermarket,Ahmedabad,Urban,2025-06-04,18.25,4.9,232.04,Medium,12.29
+Detergent,Household,HUL,111.83,21,2348.43,Mall,Ahmedabad,Semi-Urban,2025-06-16,3.46,4.7,106.25,Low,21.39
+Dishwash Bar,Household,Store Brand,272.42,7,1906.94,Kirana Store,Mumbai,Urban,2025-07-26,12.13,2.1,268.96,Low,22.35
+Rice,Groceries,Store Brand,125.43,57,7149.51,Kirana Store,Pune,Rural,2025-09-27,27.18,3.0,127.82,Medium,19.89
+Sugar,Groceries,Fortune,229.71,26,5972.46,Kirana Store,Delhi,Semi-Urban,2025-12-13,25.64,4.8,237.48,Low,16.41
+Dal,Groceries,Dabur,92.42,17,1571.14,Mall,Pune,Urban,2026-02-07,5.34,2.4,87.05,Low,19.26
+Cooking Oil,Groceries,P&G,274.93,21,5773.53,Supermarket,Hyderabad,Urban,2026-01-26,5.79,4.9,295.24,Low,23.75
+Sugar,Groceries,Store Brand,39.19,25,979.75,Kirana Store,Chennai,Rural,2025-12-01,15.67,1.9,37.41,Low,16.37
+Cooking Oil,Groceries,Local Brand,107.57,29,3119.53,Kirana Store,Mumbai,Rural,2026-01-21,23.7,4.2,99.8,Low,14.17
+Floor Cleaner,Household,Dabur,292.14,24,7011.36,Kirana Store,Bangalore,Semi-Urban,2025-12-07,9.59,4.3,303.66,Low,22.35
+Toothpaste,Personal Care,Dabur,153.97,19,2925.43,Mall,Ahmedabad,Semi-Urban,2025-10-17,27.14,4.3,147.32,Low,19.22
+Sugar,Groceries,HUL,132.04,15,1980.6,Supermarket,Pune,Urban,2025-05-01,3.44,3.0,129.65,Low,22.05
+Sugar,Groceries,Local Brand,107.09,35,3748.15,Kirana Store,Hyderabad,Rural,2026-04-06,13.39,4.0,106.87,Medium,11.43
+Dishwash Bar,Household,Patanjali,368.56,15,5528.4,Supermarket,Ahmedabad,Semi-Urban,2025-10-14,20.24,1.8,362.51,Low,13.13
+Detergent,Household,Reliance,153.45,37,5677.65,Kirana Store,Bangalore,Semi-Urban,2025-11-26,20.12,3.4,148.68,Medium,18.86
+Floor Cleaner,Household,Aashirvaad,305.66,19,5807.54,Supermarket,Bangalore,Urban,2025-11-29,7.46,4.6,310.73,Low,21.13
+Soap,Personal Care,Aashirvaad,299.02,22,6578.44,Kirana Store,Ahmedabad,Urban,2025-10-07,11.61,4.2,303.16,Low,26.74
+Toothpaste,Personal Care,Tata,249.71,37,9239.27,Mall,Bangalore,Urban,2026-02-21,23.61,3.9,242.25,Medium,18.05
+Soap,Personal Care,Store Brand,29.39,77,2263.03,Kirana Store,Delhi,Urban,2025-08-06,5.45,2.8,28.46,High,16.2
+Toothpaste,Personal Care,P&G,253.38,20,5067.6,Supermarket,Hyderabad,Urban,2025-11-26,5.6,4.1,253.81,Low,27.77
+Dishwash Bar,Household,Store Brand,183.95,15,2759.25,Kirana Store,Bangalore,Rural,2025-07-05,18.34,3.5,183.57,Low,7.2
+Shampoo,Personal Care,Aashirvaad,385.45,6,2312.7,Supermarket,Delhi,Semi-Urban,2026-02-21,11.12,4.2,404.8,Low,15.94
+Dishwash Bar,Household,Store Brand,162.66,32,5205.12,Kirana Store,Delhi,Rural,2025-12-22,3.61,2.3,177.9,Medium,24.13
+Rice,Groceries,Fortune,135.54,33,4472.82,Supermarket,Chennai,Urban,2026-02-19,19.7,3.3,130.77,Medium,24.77
+Floor Cleaner,Household,Local Brand,70.97,36,2554.92,Supermarket,Bangalore,Urban,2025-05-19,3.46,3.5,76.03,Medium,15.63
+Dal,Groceries,P&G,201.84,33,6660.72,Kirana Store,Pune,Urban,2025-05-17,28.3,4.7,207.12,Medium,21.17
+Detergent,Household,Dabur,265.48,55,14601.4,Kirana Store,Mumbai,Rural,2025-10-29,27.1,4.0,256.86,Medium,9.09
+Cooking Oil,Groceries,Reliance,93.85,46,4317.1,Kirana Store,Bangalore,Semi-Urban,2026-02-18,15.04,3.1,85.85,Medium,9.78
+Dishwash Bar,Household,Aashirvaad,599.62,20,11992.4,Supermarket,Chennai,Urban,2026-03-24,3.63,4.2,579.27,Low,19.64
+Soap,Personal Care,Reliance,202.89,36,7304.04,Supermarket,Pune,Urban,2025-12-14,22.36,3.8,201.59,Medium,17.95
+Floor Cleaner,Household,Store Brand,294.1,27,7940.7,Mall,Chennai,Urban,2026-01-13,22.37,2.2,323.01,Low,11.46
+Floor Cleaner,Household,Tata,398.05,16,6368.8,Kirana Store,Delhi,Semi-Urban,2025-11-27,24.93,3.2,419.32,Low,19.99
+Cooking Oil,Groceries,Patanjali,44.95,63,2831.85,Kirana Store,Bangalore,Semi-Urban,2026-01-15,2.33,1.6,44.69,High,17.91
+Cooking Oil,Groceries,Fortune,81.3,36,2926.8,Kirana Store,Delhi,Urban,2025-12-14,19.87,4.7,80.39,Medium,13.9
+Toothpaste,Personal Care,Store Brand,146.48,13,1904.24,Mall,Pune,Urban,2026-03-04,24.0,2.1,138.91,Low,12.61
+Hair Oil,Personal Care,HUL,196.09,34,6667.06,Mall,Hyderabad,Urban,2025-12-07,19.45,4.4,192.47,Medium,14.37
+Wheat Flour,Groceries,Aashirvaad,144.69,65,9404.85,Mall,Bangalore,Urban,2025-05-21,24.07,4.2,157.33,High,10.85
+Dal,Groceries,Reliance,170.68,45,7680.6,Supermarket,Chennai,Urban,2025-06-29,17.14,3.8,168.9,Medium,6.25
+Dal,Groceries,Store Brand,71.15,12,853.8,Supermarket,Bangalore,Urban,2026-03-23,4.69,3.4,74.51,Low,10.31
+Detergent,Household,Store Brand,171.36,41,7025.76,Kirana Store,Chennai,Rural,2025-06-24,24.81,2.0,176.27,Medium,18.7
+Detergent,Household,Fortune,357.54,14,5005.56,Supermarket,Mumbai,Rural,2026-03-09,24.08,4.8,332.27,Low,11.73
+Shampoo,Personal Care,Patanjali,179.12,44,7881.28,Supermarket,Chennai,Semi-Urban,2025-10-29,10.86,2.6,167.67,Medium,20.83
+Floor Cleaner,Household,Local Brand,274.99,59,16224.41,Mall,Ahmedabad,Urban,2025-11-24,29.49,2.8,275.36,Medium,5.33
+Detergent,Household,Patanjali,155.6,35,5446.0,Supermarket,Chennai,Semi-Urban,2025-04-17,8.44,3.6,140.88,Medium,14.45
+Toothpaste,Personal Care,HUL,364.38,26,9473.88,Supermarket,Hyderabad,Urban,2025-09-20,20.72,4.3,365.53,Low,10.92
+Shampoo,Personal Care,Patanjali,65.71,45,2956.95,Supermarket,Chennai,Urban,2025-09-28,8.94,3.5,67.57,Medium,10.06
+Cooking Oil,Groceries,Patanjali,100.81,24,2419.44,Kirana Store,Pune,Semi-Urban,2025-05-11,23.66,1.8,104.24,Low,14.69
+Shampoo,Personal Care,Store Brand,167.8,31,5201.8,Kirana Store,Pune,Rural,2025-12-02,22.62,2.1,168.66,Medium,10.06
+Sugar,Groceries,P&G,63.2,44,2780.8,Supermarket,Delhi,Urban,2025-12-04,22.82,3.7,57.51,Medium,10.29
+Wheat Flour,Groceries,Store Brand,142.62,29,4135.98,Kirana Store,Hyderabad,Rural,2026-01-02,13.46,2.8,131.82,Low,14.52
+Floor Cleaner,Household,Patanjali,323.16,11,3554.76,Supermarket,Bangalore,Semi-Urban,2026-02-16,7.99,2.8,338.35,Low,11.28
+Dal,Groceries,Aashirvaad,99.27,33,3275.91,Supermarket,Pune,Semi-Urban,2025-12-02,12.34,4.3,100.48,Medium,22.77
+Dal,Groceries,Patanjali,162.85,25,4071.25,Supermarket,Ahmedabad,Semi-Urban,2025-12-08,1.78,2.6,153.47,Low,21.63
+Dishwash Bar,Household,Tata,566.6,17,9632.2,Supermarket,Hyderabad,Urban,2025-12-26,0.45,3.6,598.47,Low,17.0
+Rice,Groceries,Local Brand,55.56,32,1777.92,Supermarket,Delhi,Urban,2025-09-15,16.42,2.9,51.86,Medium,12.63
+Detergent,Household,HUL,406.32,12,4875.84,Kirana Store,Hyderabad,Rural,2025-11-07,26.78,4.9,370.53,Low,17.71
+Cooking Oil,Groceries,Fortune,150.34,26,3908.84,Supermarket,Mumbai,Urban,2025-08-22,2.69,3.4,137.89,Low,25.38
+Floor Cleaner,Household,Local Brand,103.45,45,4655.25,Kirana Store,Hyderabad,Semi-Urban,2025-12-15,8.37,3.8,110.85,Medium,15.47
+Detergent,Household,Fortune,584.6,26,15199.6,Mall,Pune,Urban,2025-10-16,25.45,4.5,538.35,Low,20.07
+Toothpaste,Personal Care,P&G,325.12,24,7802.88,Kirana Store,Ahmedabad,Urban,2025-12-31,24.66,3.9,304.8,Low,22.6
+Dishwash Bar,Household,HUL,308.11,24,7394.64,Mall,Bangalore,Urban,2026-02-04,1.11,3.5,338.05,Low,29.77
+Rice,Groceries,Local Brand,108.49,46,4990.54,Supermarket,Chennai,Semi-Urban,2025-06-23,29.09,2.3,103.73,Medium,13.59
+Detergent,Household,Aashirvaad,605.02,9,5445.18,Mall,Hyderabad,Urban,2025-10-16,9.42,4.7,550.55,Low,27.9
+Rice,Groceries,Local Brand,112.34,31,3482.54,Mall,Bangalore,Urban,2025-04-08,23.01,3.0,116.67,Medium,12.49
+Wheat Flour,Groceries,Aashirvaad,241.51,24,5796.24,Supermarket,Chennai,Urban,2025-12-08,22.99,3.1,222.37,Low,11.37
+Soap,Personal Care,Dabur,196.2,21,4120.2,Kirana Store,Delhi,Semi-Urban,2025-05-31,18.15,1.7,211.85,Low,8.97
+Dishwash Bar,Household,Patanjali,93.98,63,5920.74,Supermarket,Ahmedabad,Urban,2026-01-21,23.09,2.7,88.94,High,11.96
+Cooking Oil,Groceries,Reliance,142.99,18,2573.82,Supermarket,Delhi,Urban,2026-03-24,5.17,4.0,149.79,Low,16.77
+Hair Oil,Personal Care,Patanjali,269.05,17,4573.85,Kirana Store,Pune,Rural,2025-12-03,0.18,4.2,291.19,Low,17.64
+Detergent,Household,Reliance,371.05,23,8534.15,Supermarket,Mumbai,Urban,2026-02-23,10.03,4.3,355.49,Low,11.1
+Shampoo,Personal Care,Patanjali,22.03,41,903.23,Kirana Store,Mumbai,Semi-Urban,2025-05-27,4.2,2.5,21.21,Medium,19.78
+Shampoo,Personal Care,Reliance,115.16,36,4145.76,Kirana Store,Bangalore,Semi-Urban,2025-07-30,18.56,3.1,107.96,Medium,10.45
+Floor Cleaner,Household,Aashirvaad,525.59,8,4204.72,Kirana Store,Pune,Urban,2025-06-28,25.24,3.1,473.81,Low,19.34
+Toothpaste,Personal Care,Reliance,121.71,27,3286.17,Kirana Store,Hyderabad,Semi-Urban,2025-08-21,18.09,1.9,124.57,Low,6.94
+Floor Cleaner,Household,Store Brand,47.29,32,1513.28,Supermarket,Chennai,Rural,2026-02-12,12.28,1.7,49.53,Medium,22.36
+Hair Oil,Personal Care,Store Brand,21.92,75,1644.0,Supermarket,Hyderabad,Urban,2025-12-08,7.1,2.6,19.98,High,21.86
+Floor Cleaner,Household,Dabur,304.78,12,3657.36,Supermarket,Chennai,Urban,2025-05-24,5.88,3.8,279.31,Low,13.45
+Shampoo,Personal Care,Store Brand,95.61,39,3728.79,Kirana Store,Hyderabad,Rural,2026-02-13,27.17,1.6,89.64,Medium,9.85
+Detergent,Household,Fortune,567.43,17,9646.31,Kirana Store,Delhi,Urban,2025-08-03,3.01,3.0,583.89,Low,18.78
+Detergent,Household,HUL,626.56,7,4385.92,Supermarket,Bangalore,Urban,2025-09-06,4.17,4.4,622.16,Low,26.72
+Cooking Oil,Groceries,Store Brand,120.77,19,2294.63,Supermarket,Bangalore,Rural,2026-02-06,0.16,2.1,110.16,Low,19.55
+Hair Oil,Personal Care,Store Brand,87.77,15,1316.55,Supermarket,Delhi,Urban,2025-07-02,1.82,3.9,95.21,Low,24.36
+Hair Oil,Personal Care,Local Brand,97.11,39,3787.29,Kirana Store,Chennai,Rural,2026-03-22,27.4,2.1,102.5,Medium,15.12
+Floor Cleaner,Household,Store Brand,211.64,18,3809.52,Kirana Store,Ahmedabad,Rural,2025-06-04,10.51,3.2,202.44,Low,11.42
+Soap,Personal Care,Store Brand,57.56,53,3050.68,Supermarket,Mumbai,Rural,2026-02-17,27.76,3.2,56.99,Medium,19.85
+Shampoo,Personal Care,HUL,285.24,13,3708.12,Supermarket,Ahmedabad,Urban,2026-01-22,6.91,4.1,274.41,Low,26.84
+Toothpaste,Personal Care,Fortune,110.9,37,4103.3,Mall,Bangalore,Urban,2025-08-18,9.23,4.0,121.05,Medium,28.12
+Sugar,Groceries,Tata,135.09,48,6484.32,Kirana Store,Hyderabad,Urban,2025-09-10,18.28,4.1,133.39,Medium,14.0
+Rice,Groceries,Aashirvaad,198.72,39,7750.08,Supermarket,Ahmedabad,Urban,2025-09-14,13.78,4.4,205.09,Medium,19.64
+Detergent,Household,Tata,466.34,17,7927.78,Mall,Chennai,Urban,2025-08-24,0.77,4.2,420.68,Low,25.96
+Detergent,Household,Local Brand,44.24,63,2787.12,Kirana Store,Ahmedabad,Rural,2025-12-13,18.64,1.7,46.57,High,19.98
+Rice,Groceries,Local Brand,29.68,21,623.28,Mall,Chennai,Semi-Urban,2025-10-22,7.02,4.4,32.28,Low,12.46
+Dal,Groceries,Reliance,124.23,23,2857.29,Supermarket,Pune,Urban,2025-10-04,1.85,3.2,112.91,Low,14.14
+Toothpaste,Personal Care,Reliance,61.06,93,5678.58,Supermarket,Mumbai,Urban,2025-09-10,25.12,2.8,61.38,High,8.33
+Rice,Groceries,Local Brand,60.46,95,5743.7,Mall,Hyderabad,Semi-Urban,2025-09-26,22.12,2.1,60.08,High,8.31
+Shampoo,Personal Care,Fortune,84.1,29,2438.9,Supermarket,Pune,Urban,2025-07-18,2.99,4.7,84.92,Low,19.38
+Soap,Personal Care,Store Brand,162.37,36,5845.32,Kirana Store,Mumbai,Rural,2025-08-25,9.21,4.3,153.02,Medium,11.1
+Cooking Oil,Groceries,Dabur,66.01,48,3168.48,Supermarket,Hyderabad,Semi-Urban,2026-03-01,4.54,3.7,61.66,Medium,20.47
+Toothpaste,Personal Care,Fortune,267.26,7,1870.82,Kirana Store,Mumbai,Urban,2025-12-06,17.33,3.7,257.63,Low,16.04
+Dal,Groceries,Fortune,280.09,21,5881.89,Supermarket,Bangalore,Semi-Urban,2025-08-24,24.29,4.7,260.94,Low,22.43
+Rice,Groceries,Fortune,158.0,48,7584.0,Kirana Store,Delhi,Semi-Urban,2025-11-02,23.83,3.8,171.18,Medium,12.64
+Wheat Flour,Groceries,Aashirvaad,145.17,50,7258.5,Supermarket,Bangalore,Urban,2026-03-02,9.7,3.7,131.96,Medium,22.78
+Rice,Groceries,HUL,207.89,65,13512.85,Kirana Store,Hyderabad,Urban,2026-02-04,25.52,3.2,214.79,High,11.75
+Floor Cleaner,Household,Aashirvaad,275.39,22,6058.58,Kirana Store,Pune,Urban,2025-09-30,2.96,3.6,285.35,Low,21.79
+Floor Cleaner,Household,P&G,144.44,50,7222.0,Supermarket,Mumbai,Semi-Urban,2025-05-28,5.86,3.3,150.92,Medium,16.4
+Hair Oil,Personal Care,Fortune,191.21,37,7074.77,Supermarket,Bangalore,Urban,2025-10-12,1.37,3.5,205.75,Medium,29.52
+Shampoo,Personal Care,Reliance,24.35,46,1120.1,Kirana Store,Pune,Urban,2026-01-01,29.27,2.7,22.47,Medium,12.34
+Rice,Groceries,Store Brand,86.84,18,1563.12,Kirana Store,Delhi,Rural,2025-06-01,24.76,2.4,89.14,Low,10.66
+Rice,Groceries,Local Brand,111.26,36,4005.36,Kirana Store,Chennai,Rural,2025-04-15,6.89,3.9,119.22,Medium,18.85
+Detergent,Household,Store Brand,201.13,31,6235.03,Kirana Store,Mumbai,Semi-Urban,2025-06-22,29.0,2.9,204.17,Medium,13.37
+Soap,Personal Care,Store Brand,85.58,27,2310.66,Kirana Store,Delhi,Rural,2026-01-02,14.99,2.0,90.77,Low,21.04
+Dishwash Bar,Household,Tata,352.67,7,2468.69,Mall,Hyderabad,Urban,2025-04-15,14.64,3.3,337.75,Low,20.51
+Rice,Groceries,Aashirvaad,284.99,6,1709.94,Supermarket,Chennai,Urban,2026-01-05,6.16,4.9,299.68,Low,26.33
+Hair Oil,Personal Care,Local Brand,89.49,39,3490.11,Kirana Store,Chennai,Rural,2025-11-02,12.58,3.2,94.85,Medium,18.69
+Toothpaste,Personal Care,P&G,242.2,9,2179.8,Supermarket,Delhi,Urban,2026-01-24,2.41,3.4,242.12,Low,15.67
+Detergent,Household,Patanjali,253.89,20,5077.8,Supermarket,Mumbai,Semi-Urban,2025-05-04,13.76,4.0,271.4,Low,14.45
+Detergent,Household,Store Brand,188.42,28,5275.76,Supermarket,Bangalore,Semi-Urban,2025-07-09,18.1,1.9,189.92,Low,11.22
+Dishwash Bar,Household,HUL,607.77,14,8508.78,Supermarket,Hyderabad,Semi-Urban,2025-06-11,16.15,3.9,613.06,Low,11.34
+Wheat Flour,Groceries,Dabur,99.44,18,1789.92,Kirana Store,Delhi,Semi-Urban,2025-06-26,4.13,3.6,109.09,Low,22.63
+Detergent,Household,Store Brand,294.17,18,5295.06,Kirana Store,Hyderabad,Semi-Urban,2025-06-26,18.62,1.6,299.22,Low,13.4
+Dishwash Bar,Household,Local Brand,331.51,15,4972.65,Supermarket,Chennai,Urban,2025-09-08,24.94,1.7,355.66,Low,15.11
+Cooking Oil,Groceries,Dabur,58.18,100,5818.0,Supermarket,Mumbai,Urban,2025-12-29,20.1,3.0,53.78,High,11.04
+Dishwash Bar,Household,Reliance,382.66,27,10331.82,Supermarket,Pune,Urban,2025-06-30,24.87,4.3,407.03,Low,7.61
+Soap,Personal Care,Patanjali,179.16,52,9316.32,Kirana Store,Chennai,Semi-Urban,2025-11-20,23.29,1.8,168.54,Medium,18.28
+Shampoo,Personal Care,Store Brand,145.2,30,4356.0,Mall,Delhi,Urban,2025-07-01,14.83,2.5,150.07,Low,10.42
+Cooking Oil,Groceries,Fortune,148.2,22,3260.4,Supermarket,Chennai,Urban,2025-05-05,23.67,3.8,142.1,Low,12.0
+Detergent,Household,Dabur,329.2,14,4608.8,Kirana Store,Chennai,Rural,2025-06-21,1.67,3.7,355.53,Low,19.64
+Dal,Groceries,Fortune,99.37,22,2186.14,Kirana Store,Delhi,Urban,2026-01-31,15.4,3.1,94.09,Low,23.62
+Detergent,Household,Tata,129.63,25,3240.75,Mall,Mumbai,Urban,2026-03-17,1.53,4.3,118.7,Low,20.38
+Soap,Personal Care,Tata,73.51,20,1470.2,Kirana Store,Pune,Urban,2026-01-04,10.52,3.0,77.64,Low,21.53
+Toothpaste,Personal Care,Reliance,316.09,21,6637.89,Supermarket,Delhi,Semi-Urban,2025-09-10,16.61,1.5,297.06,Low,7.66
+Rice,Groceries,Dabur,178.62,46,8216.52,Kirana Store,Mumbai,Semi-Urban,2025-10-22,12.93,2.4,191.47,Medium,17.06
+Floor Cleaner,Household,Tata,422.0,15,6330.0,Kirana Store,Delhi,Urban,2025-12-28,6.43,3.6,380.31,Low,28.15
+Shampoo,Personal Care,Patanjali,220.71,20,4414.2,Mall,Hyderabad,Urban,2025-12-04,23.28,2.5,210.21,Low,9.45
+Cooking Oil,Groceries,Store Brand,117.72,44,5179.68,Supermarket,Bangalore,Rural,2026-01-07,6.66,4.3,119.89,Medium,10.73
+Hair Oil,Personal Care,P&G,54.61,31,1692.91,Supermarket,Pune,Urban,2025-10-16,2.74,3.9,58.86,Medium,26.92
+Soap,Personal Care,P&G,158.82,20,3176.4,Kirana Store,Mumbai,Urban,2026-02-28,9.47,4.3,166.57,Low,27.75
+Detergent,Household,P&G,272.71,19,5181.49,Supermarket,Bangalore,Urban,2025-11-06,9.53,3.6,249.51,Low,17.44
+Floor Cleaner,Household,Dabur,169.65,19,3223.35,Mall,Chennai,Semi-Urban,2026-01-04,11.81,4.3,157.8,Low,12.33
+Shampoo,Personal Care,Aashirvaad,274.64,30,8239.2,Supermarket,Ahmedabad,Urban,2025-09-17,26.96,4.4,259.02,Low,14.99
+Wheat Flour,Groceries,Tata,220.87,38,8393.06,Supermarket,Pune,Urban,2025-09-21,19.32,4.4,223.93,Medium,14.49
+Dishwash Bar,Household,P&G,631.04,17,10727.68,Supermarket,Hyderabad,Urban,2025-10-29,9.15,3.8,581.82,Low,18.93
+Soap,Personal Care,Local Brand,143.38,10,1433.8,Kirana Store,Bangalore,Rural,2026-04-03,7.94,3.8,130.68,Low,17.51
+Detergent,Household,HUL,293.65,9,2642.85,Supermarket,Delhi,Urban,2025-12-27,15.34,3.2,281.59,Low,11.48
+Rice,Groceries,Patanjali,94.71,35,3314.85,Supermarket,Bangalore,Semi-Urban,2025-12-18,19.72,2.8,95.93,Medium,19.81
+Sugar,Groceries,Fortune,120.17,18,2163.06,Mall,Mumbai,Semi-Urban,2025-06-12,18.76,4.3,108.99,Low,17.83
+Toothpaste,Personal Care,Fortune,38.91,43,1673.13,Mall,Bangalore,Urban,2025-09-27,5.06,3.9,38.37,Medium,18.06
+Cooking Oil,Groceries,Tata,243.45,50,12172.5,Supermarket,Pune,Urban,2026-01-20,29.94,4.0,253.66,Medium,16.3
+Wheat Flour,Groceries,Store Brand,131.77,17,2240.09,Supermarket,Mumbai,Rural,2025-09-23,18.63,3.4,137.56,Low,16.33
+Hair Oil,Personal Care,Reliance,247.72,14,3468.08,Kirana Store,Mumbai,Semi-Urban,2026-01-13,11.57,1.9,256.54,Low,24.73
+Dishwash Bar,Household,Tata,196.54,49,9630.46,Kirana Store,Bangalore,Urban,2025-04-12,13.58,3.7,177.8,Medium,20.02
+Wheat Flour,Groceries,Reliance,186.34,50,9317.0,Mall,Delhi,Urban,2025-09-10,0.13,4.4,176.18,Medium,11.27
+Soap,Personal Care,Reliance,205.17,29,5949.93,Supermarket,Bangalore,Semi-Urban,2025-10-02,8.41,3.6,191.92,Low,21.29
+Hair Oil,Personal Care,Fortune,60.85,86,5233.1,Supermarket,Chennai,Urban,2025-08-02,23.49,4.2,61.81,High,11.66
+Dal,Groceries,Patanjali,185.69,22,4085.18,Kirana Store,Hyderabad,Semi-Urban,2025-06-08,23.83,2.6,190.52,Low,8.99
+Dal,Groceries,Reliance,168.28,62,10433.36,Supermarket,Bangalore,Semi-Urban,2025-05-03,21.85,1.9,153.71,High,11.69
+Shampoo,Personal Care,Store Brand,173.82,40,6952.8,Kirana Store,Delhi,Rural,2026-02-02,24.26,3.6,173.79,Medium,17.57
+Floor Cleaner,Household,Local Brand,298.48,18,5372.64,Kirana Store,Ahmedabad,Rural,2025-09-05,4.67,4.4,295.86,Low,17.3
+Dishwash Bar,Household,Reliance,457.3,12,5487.6,Supermarket,Bangalore,Urban,2025-09-02,16.29,3.4,440.86,Low,18.49
+Toothpaste,Personal Care,Reliance,217.55,18,3915.9,Supermarket,Delhi,Urban,2026-02-19,14.05,4.5,209.42,Low,20.7
+Shampoo,Personal Care,Patanjali,239.79,14,3357.06,Supermarket,Hyderabad,Urban,2025-09-16,23.32,2.3,216.6,Low,14.89
+Dal,Groceries,Local Brand,135.39,14,1895.46,Kirana Store,Hyderabad,Semi-Urban,2025-07-29,14.15,3.1,129.92,Low,22.66
+Toothpaste,Personal Care,P&G,317.32,23,7298.36,Kirana Store,Delhi,Urban,2025-05-19,25.23,3.2,313.35,Low,24.06
+Wheat Flour,Groceries,Patanjali,70.01,12,840.12,Kirana Store,Hyderabad,Semi-Urban,2025-06-27,1.62,2.2,76.62,Low,21.51
+Shampoo,Personal Care,Store Brand,166.2,20,3324.0,Supermarket,Mumbai,Urban,2026-01-25,9.24,2.7,164.12,Low,13.49
+Floor Cleaner,Household,Reliance,157.99,42,6635.58,Supermarket,Pune,Semi-Urban,2026-02-23,29.39,2.9,164.43,Medium,6.1
+Sugar,Groceries,Local Brand,156.01,39,6084.39,Kirana Store,Ahmedabad,Rural,2026-04-07,19.44,1.9,149.58,Medium,17.74
+Shampoo,Personal Care,Aashirvaad,387.18,5,1935.9,Kirana Store,Delhi,Urban,2025-05-21,3.98,4.7,349.92,Low,19.75
+Detergent,Household,Tata,322.96,17,5490.32,Mall,Delhi,Urban,2025-08-18,14.12,4.3,296.91,Low,16.35
+Toothpaste,Personal Care,Patanjali,245.87,14,3442.18,Supermarket,Bangalore,Semi-Urban,2026-02-11,15.98,2.7,253.08,Low,12.53
+Dishwash Bar,Household,HUL,637.97,29,18501.13,Mall,Pune,Urban,2026-02-11,24.49,3.6,662.89,Low,12.99
+Shampoo,Personal Care,Reliance,44.06,51,2247.06,Supermarket,Ahmedabad,Urban,2026-03-20,29.11,3.3,43.64,Medium,8.58
+Toothpaste,Personal Care,Local Brand,64.55,32,2065.6,Kirana Store,Bangalore,Rural,2025-11-02,13.08,1.7,64.49,Medium,18.62
+Hair Oil,Personal Care,Store Brand,50.9,77,3919.3,Mall,Mumbai,Urban,2025-04-13,13.96,1.9,55.78,High,13.05
+Shampoo,Personal Care,Dabur,173.87,48,8345.76,Supermarket,Chennai,Semi-Urban,2025-06-06,6.1,2.5,187.57,Medium,17.22
+Soap,Personal Care,Reliance,61.66,52,3206.32,Kirana Store,Mumbai,Semi-Urban,2025-05-30,19.54,3.5,67.02,Medium,11.64
+Floor Cleaner,Household,Patanjali,60.12,25,1503.0,Supermarket,Delhi,Semi-Urban,2026-02-02,20.74,3.5,65.44,Low,19.35
+Floor Cleaner,Household,Reliance,235.0,18,4230.0,Kirana Store,Bangalore,Semi-Urban,2025-06-20,4.81,2.2,255.42,Low,14.42
+Soap,Personal Care,Local Brand,94.46,28,2644.88,Kirana Store,Bangalore,Rural,2026-03-26,25.09,1.6,96.01,Low,18.61
+Detergent,Household,Reliance,391.73,24,9401.52,Supermarket,Chennai,Urban,2026-03-04,13.12,1.8,415.42,Low,15.15
+Detergent,Household,Patanjali,437.22,18,7869.96,Kirana Store,Mumbai,Rural,2026-04-01,8.83,1.6,423.59,Low,14.69
+Floor Cleaner,Household,Store Brand,206.63,50,10331.5,Kirana Store,Hyderabad,Rural,2025-06-23,24.53,1.8,207.71,Medium,10.13
+Dishwash Bar,Household,Store Brand,303.0,10,3030.0,Supermarket,Hyderabad,Urban,2026-02-28,27.18,2.6,322.57,Low,8.67
+Wheat Flour,Groceries,Patanjali,192.92,46,8874.32,Supermarket,Hyderabad,Semi-Urban,2025-05-26,23.36,3.3,179.07,Medium,16.96
+Rice,Groceries,HUL,157.66,50,7883.0,Kirana Store,Hyderabad,Semi-Urban,2025-06-02,16.83,3.3,173.29,Medium,19.21
+Dishwash Bar,Household,P&G,105.68,47,4966.96,Kirana Store,Mumbai,Urban,2025-09-19,13.39,3.8,113.94,Medium,15.12
+Dishwash Bar,Household,Local Brand,231.33,65,15036.45,Kirana Store,Chennai,Rural,2026-03-03,27.75,2.4,223.87,High,8.41
+Shampoo,Personal Care,Fortune,420.86,25,10521.5,Supermarket,Chennai,Urban,2026-02-15,20.6,4.8,411.05,Low,11.5
+Soap,Personal Care,Dabur,233.99,35,8189.65,Kirana Store,Ahmedabad,Urban,2025-10-10,21.67,1.9,230.14,Medium,17.07
+Shampoo,Personal Care,Patanjali,87.65,12,1051.8,Kirana Store,Bangalore,Urban,2025-12-14,12.66,2.5,93.05,Low,23.86
+Detergent,Household,Store Brand,53.81,48,2582.88,Kirana Store,Pune,Rural,2025-10-11,16.51,2.4,55.8,Medium,16.9
+Toothpaste,Personal Care,Patanjali,103.24,47,4852.28,Supermarket,Delhi,Semi-Urban,2025-04-24,14.92,3.7,99.37,Medium,12.6
+Soap,Personal Care,P&G,129.42,36,4659.12,Kirana Store,Pune,Urban,2025-06-26,2.13,3.4,131.67,Medium,26.16
+Detergent,Household,Store Brand,138.99,29,4030.71,Kirana Store,Pune,Rural,2025-05-13,13.89,3.6,149.85,Low,21.12
+Rice,Groceries,Local Brand,116.01,14,1624.14,Supermarket,Chennai,Semi-Urban,2026-03-30,28.35,4.0,106.2,Low,5.73
+Rice,Groceries,Local Brand,75.02,15,1125.3,Kirana Store,Ahmedabad,Rural,2025-10-07,27.52,3.9,68.21,Low,12.49
+Toothpaste,Personal Care,Tata,54.23,44,2386.12,Supermarket,Bangalore,Urban,2025-06-04,24.04,3.7,57.9,Medium,10.37
+Detergent,Household,Store Brand,382.09,6,2292.54,Mall,Mumbai,Semi-Urban,2025-08-28,11.67,1.9,378.38,Low,18.46
+Soap,Personal Care,Dabur,208.27,43,8955.61,Mall,Mumbai,Urban,2026-03-10,16.23,2.8,222.17,Medium,12.84
+Cooking Oil,Groceries,Fortune,217.54,12,2610.48,Supermarket,Chennai,Urban,2025-10-18,16.46,4.2,207.45,Low,14.12
+Dishwash Bar,Household,P&G,481.8,19,9154.2,Supermarket,Delhi,Urban,2025-12-13,2.38,3.3,472.61,Low,27.01
+Shampoo,Personal Care,Patanjali,47.45,37,1755.65,Supermarket,Bangalore,Urban,2025-08-08,9.68,4.2,43.03,Medium,10.78
+Wheat Flour,Groceries,Fortune,238.64,20,4772.8,Mall,Delhi,Urban,2025-10-28,0.38,4.3,226.62,Low,24.42
+Toothpaste,Personal Care,P&G,245.17,21,5148.57,Supermarket,Pune,Semi-Urban,2025-11-05,11.47,4.8,241.91,Low,24.96
+Dal,Groceries,Patanjali,167.59,50,8379.5,Kirana Store,Pune,Rural,2025-12-24,20.83,1.9,178.19,Medium,19.88
+Cooking Oil,Groceries,Store Brand,108.21,25,2705.25,Kirana Store,Ahmedabad,Rural,2025-05-30,11.11,2.5,109.38,Low,13.39
+Hair Oil,Personal Care,Dabur,100.84,21,2117.64,Kirana Store,Hyderabad,Semi-Urban,2026-02-23,10.83,3.4,105.33,Low,15.25
+Cooking Oil,Groceries,Store Brand,82.53,24,1980.72,Kirana Store,Chennai,Rural,2025-12-25,8.05,3.4,78.15,Low,17.98
+Detergent,Household,Tata,88.7,45,3991.5,Supermarket,Chennai,Urban,2025-05-12,20.14,3.4,96.01,Medium,10.89
+Dal,Groceries,Aashirvaad,236.3,23,5434.9,Supermarket,Pune,Urban,2025-10-22,13.74,3.8,256.48,Low,28.11
+Dal,Groceries,Fortune,233.59,45,10511.55,Mall,Chennai,Urban,2026-04-07,29.81,3.6,224.22,Medium,13.58
+Hair Oil,Personal Care,Store Brand,67.46,14,944.44,Kirana Store,Delhi,Rural,2025-05-24,6.38,3.1,68.27,Low,19.32
+Sugar,Groceries,Patanjali,189.15,31,5863.65,Kirana Store,Delhi,Semi-Urban,2025-06-23,17.37,2.9,205.6,Medium,7.19
+Wheat Flour,Groceries,Fortune,109.02,31,3379.62,Mall,Ahmedabad,Urban,2025-12-28,28.98,3.2,101.67,Medium,24.03
+Rice,Groceries,Store Brand,74.23,43,3191.89,Supermarket,Bangalore,Rural,2026-02-01,9.03,2.4,73.46,Medium,11.03
+Sugar,Groceries,Reliance,145.83,34,4958.22,Supermarket,Bangalore,Semi-Urban,2026-02-18,11.8,3.9,134.07,Medium,15.72
+Dishwash Bar,Household,Aashirvaad,173.08,11,1903.88,Supermarket,Pune,Semi-Urban,2026-01-24,18.85,3.8,188.45,Low,22.46
+Soap,Personal Care,Local Brand,166.87,21,3504.27,Supermarket,Ahmedabad,Semi-Urban,2026-01-24,0.38,4.4,182.0,Low,16.14
+Shampoo,Personal Care,Store Brand,169.35,29,4911.15,Mall,Hyderabad,Urban,2025-11-08,3.15,4.1,161.37,Low,14.97
+Floor Cleaner,Household,HUL,292.13,5,1460.65,Supermarket,Bangalore,Urban,2025-11-09,7.67,4.8,286.87,Low,17.94
+Dal,Groceries,Store Brand,98.83,39,3854.37,Kirana Store,Hyderabad,Rural,2026-04-06,2.61,3.4,92.91,Medium,17.66
+Shampoo,Personal Care,Store Brand,161.52,26,4199.52,Kirana Store,Ahmedabad,Rural,2025-07-27,10.34,2.5,155.61,Low,13.44
+Floor Cleaner,Household,P&G,413.23,19,7851.37,Mall,Delhi,Urban,2025-10-04,5.76,3.5,411.93,Low,17.39
+Sugar,Groceries,Aashirvaad,170.8,32,5465.6,Supermarket,Pune,Urban,2025-08-19,5.22,4.2,183.85,Medium,23.52
+Dishwash Bar,Household,P&G,249.3,6,1495.8,Kirana Store,Ahmedabad,Semi-Urban,2026-03-26,18.58,4.1,269.04,Low,13.55
+Dal,Groceries,Aashirvaad,262.06,25,6551.5,Mall,Hyderabad,Urban,2026-01-04,20.44,4.1,279.53,Low,20.21
+Floor Cleaner,Household,Patanjali,109.33,36,3935.88,Mall,Hyderabad,Urban,2025-08-03,29.09,4.0,105.03,Medium,19.11
+Hair Oil,Personal Care,Tata,297.74,9,2679.66,Mall,Mumbai,Urban,2025-09-08,16.29,4.7,269.57,Low,15.49
+Dishwash Bar,Household,Local Brand,294.68,13,3830.84,Kirana Store,Hyderabad,Rural,2025-06-09,28.02,3.9,297.15,Low,19.61
+Dal,Groceries,Local Brand,27.63,27,746.01,Kirana Store,Mumbai,Rural,2025-05-25,18.28,3.0,28.27,Low,19.27
+Detergent,Household,HUL,330.86,22,7278.92,Supermarket,Mumbai,Urban,2026-03-18,27.56,3.6,354.4,Low,10.09
+Cooking Oil,Groceries,Fortune,231.12,24,5546.88,Supermarket,Chennai,Urban,2025-06-16,14.73,3.9,238.71,Low,17.66
+Detergent,Household,Reliance,472.14,11,5193.54,Mall,Ahmedabad,Urban,2025-11-29,26.02,2.8,493.63,Low,13.98
+Shampoo,Personal Care,Patanjali,173.48,19,3296.12,Supermarket,Bangalore,Semi-Urban,2025-09-25,1.3,3.1,170.59,Low,23.95
+Soap,Personal Care,Tata,193.66,40,7746.4,Supermarket,Delhi,Semi-Urban,2025-07-10,15.5,3.3,184.64,Medium,13.34
+Rice,Groceries,Store Brand,110.37,62,6842.94,Mall,Pune,Urban,2025-07-26,25.38,4.2,109.24,High,17.17
+Detergent,Household,Reliance,391.62,20,7832.4,Mall,Chennai,Urban,2025-06-22,3.14,3.6,399.77,Low,22.93
+Shampoo,Personal Care,Reliance,175.58,44,7725.52,Kirana Store,Chennai,Semi-Urban,2026-03-15,26.56,3.8,178.89,Medium,19.94
+Soap,Personal Care,Store Brand,140.62,13,1828.06,Kirana Store,Chennai,Semi-Urban,2025-11-04,5.41,1.6,129.04,Low,12.73
+Hair Oil,Personal Care,HUL,50.43,37,1865.91,Supermarket,Chennai,Urban,2025-10-06,29.09,3.8,52.9,Medium,11.38
+Hair Oil,Personal Care,Reliance,232.3,7,1626.1,Kirana Store,Ahmedabad,Urban,2025-09-14,11.52,2.3,254.3,Low,10.07
+Toothpaste,Personal Care,P&G,78.76,42,3307.92,Mall,Pune,Semi-Urban,2025-06-25,14.17,3.2,83.04,Medium,27.57
+Shampoo,Personal Care,Patanjali,224.15,46,10310.9,Kirana Store,Mumbai,Semi-Urban,2025-10-26,21.56,4.1,230.06,Medium,18.79
+Toothpaste,Personal Care,Store Brand,163.15,19,3099.85,Kirana Store,Mumbai,Rural,2025-12-01,8.33,1.7,157.61,Low,10.34
+Sugar,Groceries,Aashirvaad,86.51,19,1643.69,Supermarket,Ahmedabad,Urban,2025-05-19,3.59,4.0,79.77,Low,25.64
+Toothpaste,Personal Care,Reliance,228.49,32,7311.68,Supermarket,Mumbai,Semi-Urban,2026-01-26,24.01,3.0,206.83,Medium,16.34
+Toothpaste,Personal Care,Patanjali,238.75,44,10505.0,Supermarket,Bangalore,Semi-Urban,2026-03-16,20.74,4.3,233.59,Medium,12.77
+Soap,Personal Care,Tata,147.13,29,4266.77,Supermarket,Mumbai,Urban,2025-07-25,2.01,3.0,133.8,Low,18.05
+Dishwash Bar,Household,P&G,495.8,23,11403.4,Kirana Store,Ahmedabad,Semi-Urban,2026-01-06,19.02,3.7,489.81,Low,20.2
+Wheat Flour,Groceries,Dabur,153.29,26,3985.54,Mall,Hyderabad,Urban,2025-06-18,6.68,3.3,161.19,Low,14.09
+Sugar,Groceries,Local Brand,107.22,10,1072.2,Kirana Store,Mumbai,Rural,2025-04-09,7.36,2.4,113.49,Low,17.0
+Floor Cleaner,Household,HUL,252.59,8,2020.72,Kirana Store,Mumbai,Urban,2025-04-11,18.46,4.4,258.94,Low,12.52
+Rice,Groceries,Dabur,89.18,15,1337.7,Mall,Ahmedabad,Urban,2026-01-20,6.47,1.7,91.04,Low,14.66
+Toothpaste,Personal Care,Dabur,135.5,59,7994.5,Kirana Store,Pune,Urban,2026-01-25,21.91,4.4,137.84,Medium,18.93
+Dishwash Bar,Household,HUL,330.97,8,2647.76,Supermarket,Mumbai,Urban,2025-08-01,16.85,3.5,349.11,Low,10.76
+Dishwash Bar,Household,Fortune,524.61,14,7344.54,Supermarket,Ahmedabad,Urban,2025-06-17,5.79,4.6,506.75,Low,17.35
+Dal,Groceries,Store Brand,82.67,23,1901.41,Kirana Store,Chennai,Urban,2025-05-30,15.75,2.3,85.25,Low,5.52
+Toothpaste,Personal Care,HUL,324.17,15,4862.55,Supermarket,Chennai,Urban,2025-07-20,0.52,3.8,330.26,Low,20.33
+Detergent,Household,Patanjali,406.52,10,4065.2,Kirana Store,Ahmedabad,Urban,2025-06-30,14.73,2.3,379.82,Low,10.78
+Dishwash Bar,Household,Local Brand,35.77,27,965.79,Kirana Store,Mumbai,Rural,2026-01-15,7.61,4.5,35.62,Low,12.58
+Toothpaste,Personal Care,Patanjali,281.63,25,7040.75,Supermarket,Bangalore,Semi-Urban,2025-05-11,11.71,2.8,260.84,Low,12.97
+Dishwash Bar,Household,Tata,176.52,25,4413.0,Supermarket,Hyderabad,Urban,2025-04-11,7.49,3.6,174.96,Low,15.86
+Detergent,Household,Dabur,243.38,14,3407.32,Supermarket,Bangalore,Urban,2025-06-03,25.37,3.0,245.04,Low,5.51
+Dishwash Bar,Household,Patanjali,350.75,14,4910.5,Mall,Delhi,Urban,2025-06-13,16.56,4.1,327.74,Low,13.39
+Detergent,Household,Tata,326.15,21,6849.15,Kirana Store,Chennai,Urban,2026-02-16,26.11,4.1,328.26,Low,10.23
+Shampoo,Personal Care,HUL,354.11,18,6373.98,Mall,Chennai,Urban,2025-05-20,6.53,3.2,384.55,Low,28.53
+Dishwash Bar,Household,Dabur,450.38,24,10809.12,Supermarket,Ahmedabad,Urban,2025-04-14,3.84,2.1,422.22,Low,14.03
+Wheat Flour,Groceries,Dabur,62.3,98,6105.4,Kirana Store,Mumbai,Semi-Urban,2025-05-17,26.25,4.0,58.35,High,11.56
+Dishwash Bar,Household,Dabur,332.23,8,2657.84,Mall,Hyderabad,Urban,2025-06-07,24.63,2.4,318.17,Low,9.66
+Rice,Groceries,Dabur,160.37,52,8339.24,Supermarket,Chennai,Semi-Urban,2025-11-18,26.49,2.2,175.16,Medium,11.83
+Dishwash Bar,Household,Local Brand,187.39,14,2623.46,Kirana Store,Bangalore,Rural,2026-03-18,17.5,3.6,170.88,Low,14.0
+Cooking Oil,Groceries,Fortune,153.34,50,7667.0,Supermarket,Chennai,Rural,2025-11-10,29.89,4.9,153.64,Medium,18.15
+Dishwash Bar,Household,Local Brand,251.05,65,16318.25,Kirana Store,Mumbai,Rural,2025-12-05,27.88,1.7,229.66,High,11.65
+Dishwash Bar,Household,Patanjali,193.15,19,3669.85,Mall,Hyderabad,Urban,2026-01-23,2.97,3.9,202.44,Low,24.9
+Toothpaste,Personal Care,HUL,219.33,12,2631.96,Supermarket,Bangalore,Urban,2026-01-17,4.88,3.1,208.87,Low,26.6
+Wheat Flour,Groceries,P&G,231.62,38,8801.56,Supermarket,Delhi,Urban,2025-04-22,15.32,4.4,223.75,Medium,23.23
+Dal,Groceries,Reliance,122.02,20,2440.4,Kirana Store,Hyderabad,Semi-Urban,2025-09-23,28.84,1.6,125.45,Low,9.83
+Floor Cleaner,Household,Reliance,86.7,20,1734.0,Mall,Chennai,Urban,2025-12-15,2.91,2.9,86.52,Low,19.12
+Cooking Oil,Groceries,Patanjali,45.4,100,4540.0,Kirana Store,Bangalore,Rural,2025-10-08,22.1,3.8,46.92,High,9.87
+Toothpaste,Personal Care,Store Brand,173.63,45,7813.35,Kirana Store,Ahmedabad,Rural,2026-03-09,0.33,3.5,183.91,Medium,21.39
+Detergent,Household,Local Brand,150.93,16,2414.88,Kirana Store,Pune,Semi-Urban,2026-02-28,2.52,2.4,149.97,Low,22.11
+Shampoo,Personal Care,Dabur,234.29,12,2811.48,Supermarket,Ahmedabad,Urban,2025-10-03,19.01,3.4,225.76,Low,7.51
+Soap,Personal Care,Dabur,118.68,25,2967.0,Kirana Store,Mumbai,Semi-Urban,2025-06-14,4.11,3.7,128.96,Low,15.03
+Soap,Personal Care,Aashirvaad,61.15,26,1589.9,Supermarket,Pune,Urban,2026-01-14,15.93,4.7,65.39,Low,10.97
+Dal,Groceries,Reliance,167.22,13,2173.86,Supermarket,Chennai,Semi-Urban,2025-09-23,10.01,3.6,156.31,Low,20.15
+Shampoo,Personal Care,Aashirvaad,75.77,39,2955.03,Supermarket,Hyderabad,Urban,2025-04-12,18.33,3.1,75.68,Medium,24.02
+Detergent,Household,Dabur,382.39,18,6883.02,Kirana Store,Bangalore,Urban,2025-10-16,23.21,3.3,370.93,Low,8.28
+Floor Cleaner,Household,Store Brand,154.2,49,7555.8,Kirana Store,Ahmedabad,Rural,2025-08-28,29.7,3.8,163.09,Medium,11.35
+Hair Oil,Personal Care,Store Brand,155.53,31,4821.43,Supermarket,Ahmedabad,Semi-Urban,2025-09-14,29.46,2.3,153.42,Medium,16.26
+Cooking Oil,Groceries,Local Brand,31.59,19,600.21,Kirana Store,Mumbai,Rural,2026-01-14,7.51,2.9,29.25,Low,16.63
+Dishwash Bar,Household,Store Brand,214.02,55,11771.1,Supermarket,Chennai,Rural,2025-05-12,25.26,2.9,203.98,Medium,8.62
+Floor Cleaner,Household,Reliance,112.6,50,5630.0,Supermarket,Chennai,Urban,2026-03-20,23.94,1.7,103.27,Medium,15.49
+Toothpaste,Personal Care,Aashirvaad,287.01,21,6027.21,Kirana Store,Mumbai,Semi-Urban,2025-05-04,10.54,3.2,314.01,Low,26.2
+Toothpaste,Personal Care,Local Brand,68.63,29,1990.27,Kirana Store,Chennai,Rural,2026-01-16,13.74,3.4,68.73,Low,10.05
+Soap,Personal Care,P&G,296.36,16,4741.76,Mall,Chennai,Urban,2025-08-11,13.61,4.1,322.7,Low,16.5
+Detergent,Household,Tata,309.06,5,1545.3,Supermarket,Bangalore,Urban,2026-01-09,9.81,4.3,287.66,Low,20.66
+Detergent,Household,Patanjali,174.94,41,7172.54,Kirana Store,Bangalore,Semi-Urban,2025-06-27,11.12,4.1,186.92,Medium,15.43
+Dishwash Bar,Household,Store Brand,297.89,16,4766.24,Kirana Store,Delhi,Rural,2026-01-06,25.5,1.6,286.92,Low,16.94
+Cooking Oil,Groceries,Patanjali,93.18,50,4659.0,Kirana Store,Mumbai,Semi-Urban,2025-12-12,18.88,1.9,84.55,Medium,14.01
+Shampoo,Personal Care,Patanjali,226.06,23,5199.38,Supermarket,Delhi,Urban,2025-05-30,9.18,2.8,204.39,Low,19.17
+Shampoo,Personal Care,Local Brand,158.97,30,4769.1,Kirana Store,Pune,Semi-Urban,2025-10-31,13.0,3.7,163.38,Low,22.57
+Dal,Groceries,Patanjali,118.66,45,5339.7,Kirana Store,Mumbai,Semi-Urban,2025-11-03,12.04,2.1,107.43,Medium,16.33
+Sugar,Groceries,Reliance,181.46,41,7439.86,Mall,Hyderabad,Urban,2026-03-01,1.38,1.6,180.73,Medium,13.34
+Hair Oil,Personal Care,Patanjali,262.78,13,3416.14,Mall,Chennai,Urban,2025-04-24,0.36,3.5,278.27,Low,13.98
+Toothpaste,Personal Care,HUL,117.01,16,1872.16,Kirana Store,Bangalore,Urban,2026-02-03,4.67,4.9,121.26,Low,24.69
+Wheat Flour,Groceries,Fortune,237.32,25,5933.0,Supermarket,Bangalore,Urban,2025-09-25,5.69,4.7,247.72,Low,26.48
+Hair Oil,Personal Care,Local Brand,46.25,52,2405.0,Kirana Store,Pune,Rural,2026-01-21,7.31,4.1,46.21,Medium,16.66
+Toothpaste,Personal Care,Local Brand,59.3,28,1660.4,Kirana Store,Ahmedabad,Rural,2026-04-02,20.23,1.6,57.25,Low,7.58
+Rice,Groceries,Fortune,204.11,36,7347.96,Supermarket,Chennai,Urban,2026-04-02,19.36,3.0,209.04,Medium,21.22
+Rice,Groceries,Patanjali,73.85,38,2806.3,Kirana Store,Mumbai,Urban,2026-01-09,5.2,4.2,72.2,Medium,20.38
+Soap,Personal Care,Store Brand,33.14,54,1789.56,Kirana Store,Bangalore,Rural,2026-01-08,1.93,4.5,32.75,Medium,20.17
+Toothpaste,Personal Care,Dabur,322.4,7,2256.8,Supermarket,Bangalore,Urban,2025-04-21,21.19,3.1,316.38,Low,14.94
+Toothpaste,Personal Care,Local Brand,125.18,17,2128.06,Mall,Chennai,Urban,2025-09-15,12.94,3.4,136.42,Low,10.08
+Shampoo,Personal Care,Reliance,97.97,20,1959.4,Kirana Store,Pune,Semi-Urban,2025-06-21,13.41,1.7,92.99,Low,18.12
+Hair Oil,Personal Care,Local Brand,112.08,30,3362.4,Kirana Store,Delhi,Rural,2026-01-15,19.55,2.2,121.98,Low,19.46
+Floor Cleaner,Household,Aashirvaad,426.53,20,8530.6,Kirana Store,Delhi,Urban,2026-03-25,26.67,3.4,427.78,Low,16.65
+Detergent,Household,P&G,679.24,11,7471.64,Kirana Store,Mumbai,Urban,2025-10-08,10.98,3.1,740.96,Low,27.41
+Shampoo,Personal Care,Aashirvaad,233.99,22,5147.78,Supermarket,Bangalore,Urban,2025-04-25,21.64,3.0,211.8,Low,24.96
+Soap,Personal Care,Local Brand,133.44,35,4670.4,Kirana Store,Bangalore,Rural,2026-01-10,16.74,4.3,120.49,Medium,10.57
+Rice,Groceries,Store Brand,82.74,10,827.4,Kirana Store,Delhi,Semi-Urban,2025-06-20,16.16,1.8,88.19,Low,10.8
+Wheat Flour,Groceries,Store Brand,31.71,19,602.49,Mall,Mumbai,Urban,2025-06-07,5.99,1.8,28.55,Low,19.77
+Toothpaste,Personal Care,Store Brand,106.63,39,4158.57,Supermarket,Hyderabad,Rural,2025-10-03,10.48,4.2,96.75,Medium,10.04
+Dal,Groceries,Reliance,207.15,48,9943.2,Mall,Mumbai,Urban,2025-10-22,19.34,3.3,199.35,Medium,6.45
+Floor Cleaner,Household,Store Brand,204.04,17,3468.68,Kirana Store,Hyderabad,Rural,2025-05-25,5.33,3.0,192.14,Low,12.88
+Dishwash Bar,Household,Reliance,56.45,45,2540.25,Mall,Ahmedabad,Urban,2025-07-02,0.54,2.1,57.82,Medium,16.11
+Wheat Flour,Groceries,Store Brand,46.9,19,891.1,Kirana Store,Bangalore,Rural,2025-10-04,6.32,2.7,49.41,Low,13.51
+Dishwash Bar,Household,Dabur,223.08,9,2007.72,Kirana Store,Ahmedabad,Rural,2025-12-28,2.81,4.2,233.47,Low,11.56
+Hair Oil,Personal Care,P&G,182.95,48,8781.6,Mall,Bangalore,Urban,2026-02-03,23.73,4.9,184.92,Medium,10.2
+Detergent,Household,Tata,265.77,17,4518.09,Mall,Bangalore,Urban,2025-10-05,0.16,4.4,280.2,Low,29.73
+Dishwash Bar,Household,Local Brand,291.78,24,7002.72,Kirana Store,Ahmedabad,Semi-Urban,2025-04-09,17.45,3.4,272.63,Low,6.38
+Dishwash Bar,Household,Reliance,403.17,8,3225.36,Supermarket,Hyderabad,Urban,2025-09-09,7.45,3.8,390.93,Low,19.78
+Shampoo,Personal Care,Local Brand,129.6,38,4924.8,Kirana Store,Bangalore,Rural,2025-09-15,5.28,4.3,125.82,Medium,14.17
+Dal,Groceries,Patanjali,48.8,32,1561.6,Kirana Store,Chennai,Semi-Urban,2025-04-17,5.96,3.1,51.27,Medium,14.65
+Soap,Personal Care,Store Brand,176.28,23,4054.44,Mall,Pune,Semi-Urban,2025-07-21,19.43,1.8,167.43,Low,18.38
+Hair Oil,Personal Care,Fortune,218.79,24,5250.96,Supermarket,Pune,Urban,2026-03-01,0.59,4.9,210.39,Low,17.54
+Rice,Groceries,Store Brand,122.77,26,3192.02,Kirana Store,Chennai,Rural,2026-02-05,3.82,2.9,134.42,Low,20.02
+Cooking Oil,Groceries,Store Brand,42.64,42,1790.88,Kirana Store,Mumbai,Rural,2025-09-17,26.8,2.2,41.69,Medium,15.45
+Hair Oil,Personal Care,Local Brand,145.83,37,5395.71,Kirana Store,Ahmedabad,Rural,2026-03-10,10.93,2.5,137.4,Medium,20.55
+Hair Oil,Personal Care,Reliance,177.2,10,1772.0,Kirana Store,Chennai,Semi-Urban,2025-04-25,11.75,3.5,164.67,Low,19.17
+Dal,Groceries,Store Brand,73.87,10,738.7,Supermarket,Hyderabad,Urban,2025-09-06,2.14,2.5,67.94,Low,24.69
+Detergent,Household,Aashirvaad,142.62,53,7558.86,Supermarket,Bangalore,Urban,2025-12-20,26.7,3.3,134.24,Medium,18.47
+Shampoo,Personal Care,Store Brand,125.12,29,3628.48,Kirana Store,Hyderabad,Rural,2025-12-15,0.39,4.0,130.22,Low,22.56
+Cooking Oil,Groceries,Store Brand,30.28,49,1483.72,Kirana Store,Chennai,Rural,2025-10-30,22.5,4.0,31.57,Medium,14.57
+Dishwash Bar,Household,P&G,367.19,25,9179.75,Kirana Store,Hyderabad,Semi-Urban,2025-12-30,4.08,3.7,340.62,Low,17.32
+Shampoo,Personal Care,HUL,211.8,16,3388.8,Mall,Bangalore,Urban,2025-09-12,5.46,3.7,203.57,Low,17.54
+Dal,Groceries,Patanjali,73.27,36,2637.72,Supermarket,Chennai,Urban,2025-07-30,8.41,2.5,66.59,Medium,21.69
+Soap,Personal Care,Aashirvaad,299.04,22,6578.88,Supermarket,Ahmedabad,Urban,2025-10-30,25.37,3.1,318.19,Low,11.84
+Detergent,Household,Fortune,593.16,15,8897.4,Mall,Ahmedabad,Urban,2025-11-10,4.11,5.0,542.19,Low,16.31
+Sugar,Groceries,P&G,227.2,18,4089.6,Supermarket,Mumbai,Urban,2025-06-29,21.95,4.3,243.66,Low,22.62
+Dal,Groceries,Tata,151.43,36,5451.48,Mall,Ahmedabad,Urban,2025-12-23,4.78,3.8,162.31,Medium,18.22
+Shampoo,Personal Care,Fortune,258.41,16,4134.56,Kirana Store,Bangalore,Urban,2025-10-10,14.03,3.9,252.92,Low,21.33
+Soap,Personal Care,Aashirvaad,285.99,16,4575.84,Kirana Store,Mumbai,Semi-Urban,2025-11-17,22.01,4.6,265.89,Low,16.45
+Cooking Oil,Groceries,Reliance,191.55,54,10343.7,Kirana Store,Hyderabad,Urban,2025-04-09,26.31,3.1,202.58,Medium,10.11
+Hair Oil,Personal Care,P&G,162.57,23,3739.11,Mall,Mumbai,Urban,2025-10-25,0.46,3.4,173.93,Low,26.6
+Soap,Personal Care,Store Brand,21.3,18,383.4,Kirana Store,Delhi,Semi-Urban,2025-10-20,15.7,2.6,23.15,Low,18.14
+Toothpaste,Personal Care,Local Brand,179.79,19,3416.01,Kirana Store,Chennai,Rural,2025-07-25,20.88,3.6,196.12,Low,15.0
+Floor Cleaner,Household,Local Brand,48.44,98,4747.12,Supermarket,Hyderabad,Urban,2025-08-12,20.07,2.7,45.09,High,16.73
+Cooking Oil,Groceries,Reliance,93.25,29,2704.25,Supermarket,Chennai,Urban,2026-03-27,4.95,2.9,94.91,Low,20.05
+Wheat Flour,Groceries,Local Brand,51.08,49,2502.92,Kirana Store,Hyderabad,Urban,2025-10-25,20.86,3.7,48.17,Medium,9.31
+Toothpaste,Personal Care,Aashirvaad,308.86,18,5559.48,Kirana Store,Mumbai,Urban,2025-08-13,12.8,4.9,307.57,Low,27.57
+Detergent,Household,Fortune,153.68,39,5993.52,Kirana Store,Pune,Semi-Urban,2025-05-26,24.2,3.3,151.71,Medium,23.66
+Soap,Personal Care,HUL,279.07,54,15069.78,Mall,Delhi,Urban,2026-02-21,29.27,4.9,268.31,Medium,14.1
+Rice,Groceries,Patanjali,114.09,39,4449.51,Supermarket,Bangalore,Semi-Urban,2025-11-03,7.01,2.8,108.36,Medium,21.84
+Rice,Groceries,Aashirvaad,171.43,41,7028.63,Mall,Hyderabad,Semi-Urban,2025-10-20,18.5,4.8,176.43,Medium,19.82
+Sugar,Groceries,Aashirvaad,222.39,18,4003.02,Supermarket,Bangalore,Urban,2025-08-20,7.74,4.7,226.27,Low,17.08
+Toothpaste,Personal Care,Patanjali,131.44,55,7229.2,Kirana Store,Pune,Rural,2025-06-15,27.53,2.9,139.39,Medium,15.29
+Floor Cleaner,Household,Aashirvaad,409.95,23,9428.85,Supermarket,Bangalore,Urban,2026-02-21,1.85,3.1,392.9,Low,27.0
+Floor Cleaner,Household,Store Brand,142.43,15,2136.45,Mall,Delhi,Urban,2025-07-09,12.32,3.6,155.95,Low,12.53
+Toothpaste,Personal Care,Tata,343.06,13,4459.78,Supermarket,Ahmedabad,Urban,2026-03-13,7.82,3.6,341.05,Low,27.99
+Rice,Groceries,Aashirvaad,116.55,21,2447.55,Supermarket,Ahmedabad,Urban,2025-05-26,14.44,5.0,111.83,Low,17.31
+Cooking Oil,Groceries,Local Brand,126.54,46,5820.84,Mall,Pune,Semi-Urban,2025-08-27,0.94,4.3,132.09,Medium,12.25
+Sugar,Groceries,Aashirvaad,159.98,19,3039.62,Supermarket,Delhi,Semi-Urban,2026-01-19,27.3,3.8,161.07,Low,10.11
+Dal,Groceries,Dabur,79.58,29,2307.82,Mall,Ahmedabad,Semi-Urban,2026-03-23,20.91,2.2,74.72,Low,15.61
+Dal,Groceries,Store Brand,67.21,43,2890.03,Supermarket,Delhi,Rural,2026-01-14,7.55,3.5,66.24,Medium,14.4
+Wheat Flour,Groceries,Store Brand,65.06,18,1171.08,Kirana Store,Pune,Rural,2025-07-17,20.75,1.6,67.02,Low,7.3
+Soap,Personal Care,Dabur,284.74,21,5979.54,Kirana Store,Mumbai,Semi-Urban,2025-11-07,0.03,3.4,295.74,Low,10.92
+Wheat Flour,Groceries,Aashirvaad,163.44,49,8008.56,Kirana Store,Bangalore,Semi-Urban,2025-12-07,2.79,3.7,160.03,Medium,28.77
+Soap,Personal Care,Store Brand,51.78,48,2485.44,Kirana Store,Bangalore,Rural,2025-04-25,12.44,4.1,50.77,Medium,11.58
+Floor Cleaner,Household,Store Brand,191.55,17,3256.35,Supermarket,Pune,Rural,2025-12-23,1.88,4.4,182.79,Low,20.74
+Wheat Flour,Groceries,Local Brand,28.27,86,2431.22,Mall,Delhi,Semi-Urban,2025-07-19,8.0,2.8,30.68,High,20.1
+Hair Oil,Personal Care,Tata,283.56,8,2268.48,Mall,Delhi,Urban,2025-09-15,4.11,3.6,268.31,Low,17.81
+Shampoo,Personal Care,Local Brand,90.17,62,5590.54,Kirana Store,Pune,Rural,2025-05-18,29.2,3.9,83.49,High,6.73
+Toothpaste,Personal Care,Dabur,301.59,18,5428.62,Supermarket,Bangalore,Semi-Urban,2026-02-06,26.67,4.5,292.31,Low,5.2
+Sugar,Groceries,Local Brand,135.02,49,6615.98,Kirana Store,Chennai,Rural,2025-10-18,20.35,4.4,124.57,Medium,18.08
+Floor Cleaner,Household,Reliance,186.8,23,4296.4,Kirana Store,Hyderabad,Semi-Urban,2026-01-19,19.56,3.8,201.65,Low,14.78
+Shampoo,Personal Care,Aashirvaad,175.45,22,3859.9,Supermarket,Ahmedabad,Urban,2025-06-24,17.25,3.3,183.41,Low,19.22
+Soap,Personal Care,Aashirvaad,368.93,7,2582.51,Supermarket,Delhi,Urban,2025-11-19,1.0,4.7,344.16,Low,27.78
+Hair Oil,Personal Care,Reliance,200.12,46,9205.52,Kirana Store,Bangalore,Semi-Urban,2026-01-07,6.92,3.7,193.0,Medium,17.67
+Floor Cleaner,Household,Store Brand,182.95,19,3476.05,Kirana Store,Hyderabad,Rural,2025-07-23,20.88,2.3,189.69,Low,13.03
+Floor Cleaner,Household,Fortune,192.85,20,3857.0,Kirana Store,Hyderabad,Urban,2025-06-23,9.24,4.5,195.78,Low,23.38
+Soap,Personal Care,Dabur,42.41,46,1950.86,Supermarket,Bangalore,Semi-Urban,2025-10-05,19.1,2.6,43.58,Medium,17.69
+Dishwash Bar,Household,Store Brand,126.26,29,3661.54,Supermarket,Hyderabad,Rural,2026-03-26,18.57,2.0,128.25,Low,9.77
+Detergent,Household,Aashirvaad,674.68,18,12144.24,Mall,Bangalore,Urban,2025-11-05,15.75,3.6,613.25,Low,16.11
+Dal,Groceries,HUL,64.74,26,1683.24,Supermarket,Chennai,Urban,2026-04-05,19.41,3.7,58.33,Low,16.57
+Dishwash Bar,Household,Local Brand,144.83,22,3186.26,Kirana Store,Mumbai,Rural,2025-12-07,6.97,1.5,140.21,Low,24.93
+Soap,Personal Care,P&G,210.54,43,9053.22,Supermarket,Delhi,Urban,2025-08-25,16.42,4.1,224.51,Medium,19.0
+Rice,Groceries,Patanjali,49.9,37,1846.3,Kirana Store,Bangalore,Rural,2025-06-26,25.97,2.1,50.92,Medium,15.12
+Floor Cleaner,Household,Store Brand,269.73,14,3776.22,Kirana Store,Delhi,Rural,2025-10-23,8.93,2.2,267.5,Low,21.47
+Floor Cleaner,Household,Store Brand,263.79,20,5275.8,Kirana Store,Mumbai,Rural,2026-02-25,24.88,2.8,254.02,Low,6.04
+Wheat Flour,Groceries,Patanjali,164.44,42,6906.48,Kirana Store,Pune,Semi-Urban,2025-06-05,26.25,3.2,157.95,Medium,12.57
+Detergent,Household,Fortune,332.89,24,7989.36,Kirana Store,Chennai,Semi-Urban,2025-05-16,3.92,3.9,349.21,Low,22.88
+Cooking Oil,Groceries,HUL,170.28,42,7151.76,Kirana Store,Bangalore,Urban,2026-03-07,7.61,4.5,176.73,Medium,23.48
+Floor Cleaner,Household,Local Brand,238.88,6,1433.28,Kirana Store,Chennai,Rural,2025-09-01,4.44,3.6,221.85,Low,14.05
+Dishwash Bar,Household,P&G,94.08,63,5927.04,Supermarket,Bangalore,Semi-Urban,2025-07-09,29.64,4.3,85.98,High,24.76
+Hair Oil,Personal Care,Tata,314.62,14,4404.68,Mall,Chennai,Urban,2025-06-14,26.51,3.9,309.43,Low,14.91
+Detergent,Household,HUL,295.46,21,6204.66,Supermarket,Pune,Urban,2025-11-19,3.21,3.0,293.24,Low,22.53
+Hair Oil,Personal Care,Dabur,95.02,50,4751.0,Kirana Store,Bangalore,Urban,2025-11-06,27.51,3.2,99.95,Medium,17.83
+Sugar,Groceries,Tata,126.17,14,1766.38,Supermarket,Bangalore,Semi-Urban,2025-04-17,20.6,3.8,116.75,Low,19.62
+Hair Oil,Personal Care,P&G,246.8,44,10859.2,Kirana Store,Mumbai,Urban,2025-08-10,20.57,3.9,245.39,Medium,14.38
+Wheat Flour,Groceries,Patanjali,142.77,26,3712.02,Kirana Store,Mumbai,Semi-Urban,2025-10-18,22.01,3.7,156.21,Low,5.55
+Cooking Oil,Groceries,Store Brand,61.23,34,2081.82,Kirana Store,Pune,Rural,2026-03-22,3.04,4.0,64.15,Medium,15.08
+Shampoo,Personal Care,HUL,286.41,11,3150.51,Kirana Store,Delhi,Semi-Urban,2025-05-04,20.57,3.8,286.73,Low,24.83
+Cooking Oil,Groceries,Aashirvaad,182.35,36,6564.6,Mall,Mumbai,Urban,2026-02-24,18.28,4.5,167.73,Medium,21.06
+Cooking Oil,Groceries,P&G,91.71,40,3668.4,Supermarket,Bangalore,Urban,2025-05-21,23.86,3.9,93.03,Medium,20.97
+Dishwash Bar,Household,Aashirvaad,346.33,17,5887.61,Kirana Store,Bangalore,Semi-Urban,2025-12-14,16.14,4.6,327.58,Low,23.93
+Rice,Groceries,Dabur,136.8,18,2462.4,Mall,Ahmedabad,Semi-Urban,2025-11-08,23.22,2.7,140.88,Low,18.77
+Toothpaste,Personal Care,Aashirvaad,268.15,7,1877.05,Mall,Pune,Urban,2025-04-27,14.9,4.2,251.85,Low,25.62
+Hair Oil,Personal Care,P&G,177.9,35,6226.5,Supermarket,Chennai,Urban,2026-03-01,0.52,4.1,187.65,Medium,29.72
+Wheat Flour,Groceries,Reliance,163.04,29,4728.16,Mall,Pune,Semi-Urban,2025-10-19,13.41,3.8,168.73,Low,19.07
+Dishwash Bar,Household,Aashirvaad,288.4,5,1442.0,Kirana Store,Hyderabad,Urban,2026-03-10,0.06,3.1,296.25,Low,21.17
+Detergent,Household,Fortune,529.92,18,9538.56,Kirana Store,Hyderabad,Urban,2025-04-18,18.28,4.5,550.44,Low,20.59
+Floor Cleaner,Household,Aashirvaad,349.95,7,2449.65,Kirana Store,Mumbai,Rural,2025-11-14,5.72,3.2,346.81,Low,16.82
+Hair Oil,Personal Care,Reliance,86.02,17,1462.34,Kirana Store,Bangalore,Semi-Urban,2025-06-05,13.77,2.3,94.42,Low,12.36
+Dishwash Bar,Household,Local Brand,172.61,37,6386.57,Kirana Store,Bangalore,Urban,2025-08-27,9.44,4.2,181.67,Medium,13.65
+Cooking Oil,Groceries,Tata,157.65,32,5044.8,Supermarket,Bangalore,Urban,2026-01-04,20.75,3.7,162.1,Medium,12.8
+Soap,Personal Care,HUL,275.18,10,2751.8,Supermarket,Hyderabad,Urban,2026-02-20,12.41,4.6,292.33,Low,16.08
+Soap,Personal Care,Aashirvaad,208.61,10,2086.1,Mall,Hyderabad,Urban,2025-08-08,13.98,4.3,188.85,Low,20.16
+Floor Cleaner,Household,Dabur,63.72,13,828.36,Kirana Store,Delhi,Semi-Urban,2025-04-16,16.56,3.8,63.67,Low,15.15
+Wheat Flour,Groceries,Patanjali,160.61,46,7388.06,Mall,Bangalore,Urban,2025-06-26,25.25,4.1,152.47,Medium,17.67
+Sugar,Groceries,HUL,204.38,41,8379.58,Kirana Store,Mumbai,Urban,2025-08-31,2.46,4.9,188.15,Medium,26.45
+Detergent,Household,Store Brand,200.51,49,9824.99,Supermarket,Delhi,Semi-Urban,2026-03-17,0.43,4.0,183.75,Medium,14.57
+Shampoo,Personal Care,Reliance,195.7,16,3131.2,Kirana Store,Delhi,Semi-Urban,2025-07-31,11.97,4.2,203.72,Low,24.93
+Wheat Flour,Groceries,Local Brand,139.09,62,8623.58,Kirana Store,Bangalore,Rural,2025-07-22,29.39,2.6,142.08,High,9.55
+Detergent,Household,Patanjali,359.38,14,5031.32,Supermarket,Bangalore,Urban,2025-06-23,1.94,3.1,355.48,Low,23.88
+Dishwash Bar,Household,Reliance,138.61,14,1940.54,Supermarket,Ahmedabad,Urban,2025-12-13,10.07,2.3,131.32,Low,23.33
+Floor Cleaner,Household,Reliance,55.41,29,1606.89,Supermarket,Delhi,Semi-Urban,2026-01-06,6.5,3.6,50.52,Low,15.34
+Wheat Flour,Groceries,Local Brand,154.97,36,5578.92,Kirana Store,Hyderabad,Semi-Urban,2025-11-10,29.48,3.8,160.0,Medium,11.57
+Detergent,Household,Store Brand,194.71,33,6425.43,Mall,Hyderabad,Urban,2025-09-15,7.63,4.3,193.25,Medium,22.66
+Detergent,Household,Local Brand,161.89,47,7608.83,Kirana Store,Pune,Semi-Urban,2025-11-13,12.01,3.3,161.83,Medium,15.82
+Detergent,Household,P&G,205.55,43,8838.65,Supermarket,Hyderabad,Urban,2025-09-28,17.41,3.9,221.44,Medium,18.75
+Floor Cleaner,Household,Aashirvaad,82.39,16,1318.24,Supermarket,Pune,Urban,2025-05-19,21.89,3.4,86.53,Low,13.47
+Floor Cleaner,Household,Tata,353.21,11,3885.31,Mall,Mumbai,Urban,2025-10-17,2.54,4.8,327.91,Low,15.72
+Dal,Groceries,Store Brand,134.27,31,4162.37,Supermarket,Delhi,Rural,2025-09-30,28.21,2.8,139.72,Medium,7.42
+Hair Oil,Personal Care,Tata,268.74,13,3493.62,Kirana Store,Delhi,Urban,2025-05-19,8.27,4.9,269.99,Low,19.39
+Soap,Personal Care,Patanjali,124.46,22,2738.12,Kirana Store,Hyderabad,Semi-Urban,2025-09-21,21.58,4.3,124.22,Low,12.13
+Cooking Oil,Groceries,Local Brand,34.04,39,1327.56,Mall,Bangalore,Urban,2025-11-30,29.92,2.4,35.74,Medium,9.27
+Dal,Groceries,HUL,267.98,20,5359.6,Supermarket,Bangalore,Urban,2025-08-26,14.29,3.6,263.71,Low,25.03
+Toothpaste,Personal Care,Patanjali,31.31,63,1972.53,Supermarket,Bangalore,Urban,2025-04-16,6.36,3.7,30.06,High,18.92
+Toothpaste,Personal Care,Tata,123.48,20,2469.6,Supermarket,Ahmedabad,Urban,2026-03-30,27.28,3.6,128.95,Low,17.77
+Soap,Personal Care,Dabur,36.04,43,1549.72,Supermarket,Bangalore,Urban,2025-08-26,8.99,3.1,37.81,Medium,19.01
+Shampoo,Personal Care,HUL,164.31,36,5915.16,Supermarket,Pune,Urban,2025-09-10,28.18,4.6,148.68,Medium,13.31
+Wheat Flour,Groceries,Patanjali,46.76,70,3273.2,Kirana Store,Hyderabad,Urban,2025-07-07,13.77,4.3,50.59,High,10.61
+Rice,Groceries,Store Brand,90.28,42,3791.76,Supermarket,Chennai,Urban,2025-09-17,1.96,2.0,87.89,Medium,15.09
+Dal,Groceries,HUL,190.52,49,9335.48,Supermarket,Hyderabad,Urban,2026-02-13,10.82,3.4,183.73,Medium,16.36
+Shampoo,Personal Care,Local Brand,145.58,11,1601.38,Supermarket,Hyderabad,Rural,2025-10-12,3.3,4.0,131.9,Low,16.19
+Soap,Personal Care,Tata,39.24,81,3178.44,Supermarket,Hyderabad,Urban,2025-11-10,27.11,4.6,40.42,High,15.79
+Wheat Flour,Groceries,Store Brand,49.03,25,1225.75,Supermarket,Chennai,Urban,2026-01-27,2.93,2.6,45.92,Low,17.85
+Hair Oil,Personal Care,Local Brand,92.6,18,1666.8,Supermarket,Ahmedabad,Semi-Urban,2025-12-06,4.06,3.7,89.54,Low,20.3
+Toothpaste,Personal Care,Patanjali,91.81,63,5784.03,Supermarket,Chennai,Semi-Urban,2025-11-19,29.44,3.4,93.85,High,7.48
+Toothpaste,Personal Care,Local Brand,167.33,61,10207.13,Kirana Store,Chennai,Rural,2025-04-17,28.91,1.7,181.97,High,12.88
+Dishwash Bar,Household,Fortune,231.55,58,13429.9,Kirana Store,Delhi,Rural,2025-06-30,22.53,3.8,240.3,Medium,14.6
+Toothpaste,Personal Care,Patanjali,133.35,22,2933.7,Kirana Store,Pune,Semi-Urban,2025-10-18,19.29,1.6,127.62,Low,11.9
+Wheat Flour,Groceries,Aashirvaad,75.37,14,1055.18,Mall,Ahmedabad,Urban,2025-05-17,24.6,4.8,68.92,Low,21.34
+Wheat Flour,Groceries,P&G,219.91,11,2419.01,Kirana Store,Delhi,Urban,2025-10-17,2.37,3.2,227.43,Low,24.59
+Dishwash Bar,Household,Dabur,125.11,16,2001.76,Kirana Store,Hyderabad,Semi-Urban,2026-03-13,25.51,3.2,124.12,Low,16.81
+Rice,Groceries,Dabur,140.08,22,3081.76,Mall,Pune,Urban,2025-11-28,16.74,3.7,142.93,Low,15.62
+Cooking Oil,Groceries,Patanjali,161.16,35,5640.6,Supermarket,Chennai,Urban,2025-05-26,19.56,4.5,157.13,Medium,19.08
+Toothpaste,Personal Care,HUL,158.71,34,5396.14,Kirana Store,Delhi,Semi-Urban,2025-07-29,10.4,4.0,162.11,Medium,19.46
+Detergent,Household,Store Brand,229.32,6,1375.92,Kirana Store,Mumbai,Rural,2025-06-30,9.77,4.4,225.72,Low,18.96
+Wheat Flour,Groceries,P&G,175.3,31,5434.3,Kirana Store,Delhi,Semi-Urban,2025-07-20,15.05,3.6,168.03,Medium,12.28
+Dishwash Bar,Household,Reliance,180.25,32,5768.0,Supermarket,Hyderabad,Semi-Urban,2025-04-07,5.48,3.0,167.78,Medium,16.86
+Detergent,Household,Local Brand,269.01,15,4035.15,Kirana Store,Bangalore,Rural,2025-11-30,3.11,2.4,262.75,Low,10.15
+Cooking Oil,Groceries,Dabur,152.02,58,8817.16,Supermarket,Mumbai,Urban,2026-03-22,23.81,2.3,152.97,Medium,7.47
+Rice,Groceries,Tata,192.5,28,5390.0,Supermarket,Mumbai,Urban,2025-05-22,25.36,4.0,200.29,Low,19.36
+Shampoo,Personal Care,Reliance,209.13,22,4600.86,Mall,Pune,Urban,2025-07-08,1.45,3.1,225.64,Low,23.02
+Hair Oil,Personal Care,Store Brand,187.98,21,3947.58,Kirana Store,Ahmedabad,Semi-Urban,2026-02-06,5.14,2.4,197.09,Low,23.12
+Soap,Personal Care,Dabur,206.4,11,2270.4,Mall,Mumbai,Semi-Urban,2025-09-23,7.25,1.7,193.43,Low,19.97
+Toothpaste,Personal Care,Reliance,49.88,100,4988.0,Supermarket,Chennai,Semi-Urban,2025-11-14,28.48,3.7,46.44,High,8.68
+Dal,Groceries,P&G,114.77,40,4590.8,Mall,Ahmedabad,Urban,2025-09-26,13.86,3.2,110.52,Medium,27.57
+Soap,Personal Care,Local Brand,96.72,36,3481.92,Supermarket,Delhi,Semi-Urban,2026-03-06,27.36,4.4,96.02,Medium,14.7
+Detergent,Household,Dabur,278.46,50,13923.0,Kirana Store,Ahmedabad,Semi-Urban,2026-02-09,29.46,1.5,263.98,Medium,9.59
+Toothpaste,Personal Care,Aashirvaad,218.65,43,9401.95,Supermarket,Delhi,Semi-Urban,2025-06-15,19.27,4.8,214.73,Medium,24.95
+Toothpaste,Personal Care,Store Brand,142.3,44,6261.2,Kirana Store,Bangalore,Rural,2025-07-30,13.91,4.1,146.56,Medium,19.21
+Dishwash Bar,Household,Aashirvaad,253.72,19,4820.68,Supermarket,Delhi,Urban,2025-08-19,23.01,4.8,267.86,Low,16.33
+Dal,Groceries,Fortune,198.62,63,12513.06,Supermarket,Chennai,Urban,2025-04-17,28.05,3.3,194.08,High,15.45
+Dal,Groceries,Store Brand,80.8,21,1696.8,Supermarket,Mumbai,Semi-Urban,2026-03-20,19.37,3.5,76.48,Low,18.94
+Sugar,Groceries,Dabur,111.37,57,6348.09,Supermarket,Chennai,Semi-Urban,2026-02-17,29.0,1.6,122.15,Medium,6.49
+Dishwash Bar,Household,Patanjali,402.78,11,4430.58,Kirana Store,Pune,Semi-Urban,2025-07-23,22.83,4.4,440.51,Low,8.63
+Soap,Personal Care,Reliance,188.42,12,2261.04,Mall,Hyderabad,Urban,2026-02-17,16.97,3.2,171.69,Low,10.31
+Dishwash Bar,Household,Aashirvaad,540.85,11,5949.35,Supermarket,Mumbai,Urban,2025-10-30,9.6,3.6,567.3,Low,17.83
+Hair Oil,Personal Care,Local Brand,74.76,14,1046.64,Kirana Store,Mumbai,Rural,2025-11-06,25.77,2.3,68.46,Low,17.39
+Soap,Personal Care,Reliance,289.31,14,4050.34,Supermarket,Bangalore,Semi-Urban,2026-04-06,27.61,4.2,275.36,Low,7.25
+Soap,Personal Care,Fortune,70.05,46,3222.3,Supermarket,Pune,Urban,2026-03-30,3.95,3.3,75.98,Medium,20.86
+Sugar,Groceries,Store Brand,116.7,50,5835.0,Kirana Store,Mumbai,Rural,2026-01-06,25.69,2.2,126.28,Medium,8.67
+Floor Cleaner,Household,Patanjali,157.89,36,5684.04,Supermarket,Hyderabad,Semi-Urban,2025-05-28,21.06,2.0,159.64,Medium,15.99
+Sugar,Groceries,Patanjali,47.94,100,4794.0,Kirana Store,Mumbai,Rural,2026-03-04,26.03,4.1,52.38,High,17.37
+Toothpaste,Personal Care,Dabur,61.47,28,1721.16,Supermarket,Chennai,Semi-Urban,2026-01-27,28.94,2.0,55.75,Low,18.79
+Dishwash Bar,Household,HUL,388.17,31,12033.27,Mall,Mumbai,Urban,2025-05-14,27.52,4.4,399.47,Medium,16.58
+Rice,Groceries,Aashirvaad,130.35,23,2998.05,Supermarket,Ahmedabad,Semi-Urban,2026-02-06,4.41,3.7,137.25,Low,21.86
+Floor Cleaner,Household,Patanjali,494.36,13,6426.68,Supermarket,Mumbai,Semi-Urban,2025-10-26,2.83,3.4,447.46,Low,20.1
+Sugar,Groceries,Fortune,204.39,35,7153.65,Supermarket,Chennai,Urban,2025-07-28,26.05,3.3,212.24,Medium,13.33
+Wheat Flour,Groceries,Dabur,136.63,39,5328.57,Supermarket,Hyderabad,Semi-Urban,2025-05-07,24.25,2.7,146.73,Medium,7.04
+Detergent,Household,Reliance,341.88,17,5811.96,Kirana Store,Ahmedabad,Rural,2025-10-25,16.28,3.3,338.11,Low,15.87
+Detergent,Household,Local Brand,112.15,65,7289.75,Kirana Store,Ahmedabad,Rural,2025-10-23,29.03,4.3,110.78,High,19.15
+Dal,Groceries,Reliance,116.12,48,5573.76,Mall,Mumbai,Urban,2025-12-03,18.15,3.5,106.05,Medium,15.64
+Sugar,Groceries,Local Brand,126.47,25,3161.75,Kirana Store,Bangalore,Rural,2025-04-21,10.2,4.3,114.04,Low,24.59
+Dal,Groceries,Reliance,164.27,46,7556.42,Kirana Store,Ahmedabad,Rural,2025-07-07,12.75,3.1,167.28,Medium,17.07
+Toothpaste,Personal Care,Patanjali,103.14,58,5982.12,Kirana Store,Chennai,Semi-Urban,2025-11-29,27.32,4.3,98.55,Medium,10.22
+Shampoo,Personal Care,P&G,182.9,21,3840.9,Kirana Store,Hyderabad,Semi-Urban,2025-08-10,6.73,3.4,193.25,Low,26.5
+Floor Cleaner,Household,Dabur,247.67,15,3715.05,Kirana Store,Chennai,Semi-Urban,2025-05-24,7.2,3.1,225.36,Low,10.36
+Rice,Groceries,P&G,161.96,12,1943.52,Supermarket,Ahmedabad,Urban,2025-04-08,15.63,4.9,161.21,Low,18.3
+Rice,Groceries,Aashirvaad,226.74,15,3401.1,Kirana Store,Chennai,Semi-Urban,2026-01-29,25.97,3.6,242.64,Low,22.32
+Shampoo,Personal Care,P&G,250.76,33,8275.08,Mall,Delhi,Urban,2025-09-10,22.01,4.0,246.69,Medium,13.39
+Dishwash Bar,Household,Local Brand,117.41,18,2113.38,Kirana Store,Delhi,Rural,2026-02-12,5.64,3.9,116.4,Low,22.43
+Detergent,Household,Reliance,70.41,26,1830.66,Supermarket,Delhi,Urban,2025-05-29,24.46,3.1,74.65,Low,9.44
+Floor Cleaner,Household,Local Brand,200.54,39,7821.06,Kirana Store,Mumbai,Semi-Urban,2025-04-21,14.91,3.5,215.89,Medium,21.92
+Soap,Personal Care,Aashirvaad,97.45,14,1364.3,Supermarket,Pune,Urban,2025-04-24,5.23,3.9,102.41,Low,26.51
+Dal,Groceries,HUL,69.11,18,1243.98,Mall,Hyderabad,Urban,2025-12-15,7.29,3.7,63.8,Low,24.58
+Detergent,Household,Store Brand,249.86,17,4247.62,Supermarket,Chennai,Rural,2025-06-17,6.47,1.7,254.61,Low,10.17
+Floor Cleaner,Household,Dabur,419.32,7,2935.24,Supermarket,Ahmedabad,Urban,2026-02-15,28.96,3.4,457.77,Low,19.39
+Toothpaste,Personal Care,HUL,287.2,24,6892.8,Kirana Store,Bangalore,Semi-Urban,2025-12-03,12.72,3.1,273.84,Low,29.46
+Toothpaste,Personal Care,Patanjali,36.2,32,1158.4,Supermarket,Pune,Urban,2026-01-28,11.85,2.2,38.8,Medium,24.5
+Detergent,Household,Store Brand,109.93,20,2198.6,Kirana Store,Bangalore,Rural,2025-06-14,26.89,2.1,117.82,Low,10.94
+Sugar,Groceries,Store Brand,128.84,55,7086.2,Supermarket,Chennai,Rural,2025-10-30,20.17,2.2,136.12,Medium,17.43
+Shampoo,Personal Care,Reliance,63.33,40,2533.2,Supermarket,Mumbai,Urban,2025-06-23,18.38,3.1,61.57,Medium,9.48
+Dishwash Bar,Household,Local Brand,175.28,32,5608.96,Kirana Store,Ahmedabad,Rural,2025-05-18,19.47,3.8,186.42,Medium,9.02
+Dishwash Bar,Household,Store Brand,143.6,26,3733.6,Mall,Hyderabad,Urban,2025-05-03,8.31,4.1,155.9,Low,21.44
+Toothpaste,Personal Care,Patanjali,36.4,95,3458.0,Kirana Store,Ahmedabad,Semi-Urban,2025-06-09,24.22,3.8,34.23,High,19.15
+Dishwash Bar,Household,Tata,617.99,8,4943.92,Kirana Store,Bangalore,Urban,2026-04-05,10.02,3.6,638.76,Low,27.55
+Toothpaste,Personal Care,Reliance,68.95,40,2758.0,Kirana Store,Bangalore,Semi-Urban,2025-05-04,11.39,2.6,67.64,Medium,11.31
+Wheat Flour,Groceries,Tata,109.29,23,2513.67,Mall,Ahmedabad,Urban,2025-07-07,3.65,3.7,114.11,Low,25.82
+Cooking Oil,Groceries,Dabur,94.93,17,1613.81,Kirana Store,Bangalore,Rural,2025-05-05,12.57,3.1,89.7,Low,11.87
+Dishwash Bar,Household,P&G,489.69,17,8324.73,Supermarket,Pune,Semi-Urban,2025-11-21,16.06,4.6,531.06,Low,21.55
+Soap,Personal Care,Reliance,261.3,20,5226.0,Kirana Store,Delhi,Semi-Urban,2025-10-29,17.07,3.6,265.44,Low,9.34
+Soap,Personal Care,Tata,53.29,32,1705.28,Supermarket,Delhi,Urban,2026-01-07,11.78,3.2,50.82,Medium,19.93
+Rice,Groceries,Store Brand,87.31,57,4976.67,Kirana Store,Ahmedabad,Rural,2025-08-21,29.01,2.4,80.37,Medium,15.64
+Shampoo,Personal Care,Reliance,263.79,17,4484.43,Mall,Mumbai,Urban,2025-11-30,5.44,3.2,252.17,Low,12.97
+Floor Cleaner,Household,Dabur,410.51,25,10262.75,Supermarket,Ahmedabad,Urban,2025-04-13,17.64,4.2,386.74,Low,14.48
+Sugar,Groceries,Local Brand,29.72,41,1218.52,Kirana Store,Mumbai,Rural,2025-04-26,16.81,3.0,27.01,Medium,11.2
+Wheat Flour,Groceries,Aashirvaad,280.88,13,3651.44,Supermarket,Chennai,Urban,2025-06-03,28.46,4.4,284.96,Low,23.11
+Cooking Oil,Groceries,Aashirvaad,149.79,37,5542.23,Kirana Store,Ahmedabad,Urban,2026-01-17,10.65,4.0,137.8,Medium,29.08
+Dal,Groceries,Patanjali,87.73,26,2280.98,Mall,Bangalore,Semi-Urban,2026-01-18,1.87,2.2,90.8,Low,15.95
+Hair Oil,Personal Care,Reliance,279.48,31,8663.88,Supermarket,Pune,Urban,2025-06-22,24.27,4.2,290.74,Medium,5.25
+Dal,Groceries,Tata,168.46,17,2863.82,Supermarket,Delhi,Urban,2025-11-08,6.08,3.8,170.4,Low,29.66
+Dishwash Bar,Household,Store Brand,108.96,29,3159.84,Supermarket,Delhi,Urban,2026-03-29,28.28,2.9,108.12,Low,14.7
+Dishwash Bar,Household,Store Brand,140.28,17,2384.76,Kirana Store,Ahmedabad,Urban,2025-06-18,18.11,2.3,134.21,Low,17.31
+Dal,Groceries,Store Brand,91.81,41,3764.21,Kirana Store,Ahmedabad,Rural,2025-08-08,0.28,3.5,92.39,Medium,20.31
+Toothpaste,Personal Care,Tata,31.89,36,1148.04,Mall,Mumbai,Urban,2025-08-13,10.46,4.1,32.59,Medium,24.54
+Sugar,Groceries,Patanjali,126.44,39,4931.16,Mall,Hyderabad,Urban,2025-06-15,3.89,2.5,126.61,Medium,14.76
+Rice,Groceries,P&G,117.62,20,2352.4,Mall,Ahmedabad,Urban,2026-03-15,17.51,4.3,115.55,Low,11.81
+Rice,Groceries,Tata,155.11,13,2016.43,Kirana Store,Mumbai,Urban,2025-04-18,16.34,4.5,148.93,Low,21.81
+Dal,Groceries,Dabur,67.06,100,6706.0,Supermarket,Chennai,Urban,2025-12-25,28.35,1.8,73.74,High,18.48
+Detergent,Household,Local Brand,198.0,26,5148.0,Mall,Bangalore,Urban,2025-07-15,4.73,3.9,185.84,Low,20.54
+Hair Oil,Personal Care,Dabur,303.72,25,7593.0,Kirana Store,Chennai,Semi-Urban,2025-11-29,3.38,4.2,275.14,Low,13.56
+Cooking Oil,Groceries,Store Brand,113.98,24,2735.52,Kirana Store,Chennai,Rural,2025-06-08,13.25,3.2,108.34,Low,20.99
+Wheat Flour,Groceries,Store Brand,123.02,49,6027.98,Kirana Store,Bangalore,Rural,2025-11-16,28.76,2.0,122.16,Medium,5.13
+Dishwash Bar,Household,Fortune,621.59,17,10567.03,Supermarket,Chennai,Urban,2025-11-21,22.43,4.4,620.26,Low,18.42
+Sugar,Groceries,Reliance,43.67,28,1222.76,Supermarket,Hyderabad,Semi-Urban,2025-11-02,12.43,2.5,47.36,Low,12.47
+Toothpaste,Personal Care,Tata,338.98,10,3389.8,Supermarket,Ahmedabad,Urban,2025-05-30,29.62,4.2,357.24,Low,15.11
+Shampoo,Personal Care,Patanjali,268.63,13,3492.19,Kirana Store,Chennai,Semi-Urban,2025-09-11,1.59,2.0,265.73,Low,21.09
+Toothpaste,Personal Care,Local Brand,193.54,16,3096.64,Supermarket,Delhi,Urban,2025-12-26,9.83,1.6,210.8,Low,21.12
+Wheat Flour,Groceries,Local Brand,66.67,36,2400.12,Mall,Pune,Semi-Urban,2026-02-10,2.79,2.4,67.91,Medium,10.86
+Floor Cleaner,Household,Fortune,131.87,27,3560.49,Supermarket,Pune,Urban,2025-08-05,8.2,4.3,136.72,Low,29.31
+Shampoo,Personal Care,HUL,298.49,18,5372.82,Supermarket,Bangalore,Urban,2025-10-06,10.93,4.0,328.12,Low,26.76
+Rice,Groceries,Dabur,145.14,13,1886.82,Kirana Store,Hyderabad,Semi-Urban,2026-03-16,1.58,3.5,133.28,Low,21.49
+Sugar,Groceries,Patanjali,148.35,37,5488.95,Kirana Store,Ahmedabad,Semi-Urban,2026-03-04,6.9,3.8,154.56,Medium,14.34
+Sugar,Groceries,Store Brand,126.12,46,5801.52,Kirana Store,Mumbai,Semi-Urban,2025-09-02,8.14,2.1,123.11,Medium,18.87
+Cooking Oil,Groceries,Store Brand,89.53,37,3312.61,Kirana Store,Pune,Rural,2026-02-11,21.77,4.4,98.32,Medium,14.34
+Rice,Groceries,Local Brand,92.93,37,3438.41,Kirana Store,Bangalore,Rural,2025-09-28,23.4,1.6,89.77,Medium,9.34
+Detergent,Household,Aashirvaad,614.87,23,14142.01,Supermarket,Delhi,Urban,2026-03-28,9.53,3.3,607.3,Low,28.56
+Soap,Personal Care,Local Brand,105.5,13,1371.5,Kirana Store,Ahmedabad,Rural,2025-12-08,20.04,4.4,110.3,Low,9.69
+Detergent,Household,Store Brand,154.59,12,1855.08,Kirana Store,Hyderabad,Rural,2025-05-15,3.5,2.4,149.57,Low,18.46
+Rice,Groceries,Reliance,67.23,14,941.22,Mall,Delhi,Urban,2025-07-10,20.94,1.7,73.23,Low,18.64
+Dishwash Bar,Household,Tata,119.9,47,5635.3,Mall,Pune,Urban,2026-01-24,2.37,4.3,120.75,Medium,23.41
+Soap,Personal Care,Local Brand,97.27,32,3112.64,Kirana Store,Mumbai,Rural,2025-07-26,4.44,4.1,102.68,Medium,19.81
+Floor Cleaner,Household,Dabur,348.66,22,7670.52,Kirana Store,Chennai,Urban,2025-09-01,18.01,3.3,372.87,Low,13.23
+Hair Oil,Personal Care,Local Brand,196.61,35,6881.35,Supermarket,Mumbai,Urban,2025-07-04,12.03,3.0,214.97,Medium,20.88
+Floor Cleaner,Household,Reliance,468.61,24,11246.64,Supermarket,Chennai,Semi-Urban,2025-12-01,18.3,3.7,490.91,Low,9.25
+Dishwash Bar,Household,Store Brand,124.94,45,5622.3,Supermarket,Delhi,Urban,2025-06-03,18.32,2.1,116.33,Medium,10.13
+Floor Cleaner,Household,Tata,295.88,22,6509.36,Supermarket,Mumbai,Urban,2025-08-12,9.37,4.0,278.0,Low,27.56
+Toothpaste,Personal Care,P&G,83.8,38,3184.4,Kirana Store,Chennai,Urban,2025-04-23,15.82,4.7,85.89,Medium,20.63
+Dishwash Bar,Household,Tata,253.23,17,4304.91,Supermarket,Mumbai,Urban,2026-02-03,18.74,3.9,243.29,Low,21.1
+Soap,Personal Care,Reliance,157.67,57,8987.19,Kirana Store,Chennai,Semi-Urban,2025-05-20,23.99,1.8,149.09,Medium,17.48
+Detergent,Household,P&G,165.99,26,4315.74,Mall,Hyderabad,Urban,2025-06-10,14.99,4.2,166.19,Low,17.79
+Dal,Groceries,HUL,162.44,57,9259.08,Supermarket,Chennai,Urban,2026-03-28,27.11,4.8,155.75,Medium,19.2
+Shampoo,Personal Care,Patanjali,241.16,19,4582.04,Supermarket,Chennai,Semi-Urban,2026-03-18,8.75,1.5,260.29,Low,11.38
+Detergent,Household,Patanjali,427.71,14,5987.94,Supermarket,Delhi,Semi-Urban,2025-07-10,4.91,2.3,418.85,Low,12.01
+Hair Oil,Personal Care,Aashirvaad,35.1,88,3088.8,Kirana Store,Mumbai,Urban,2025-08-26,22.93,4.1,34.31,High,13.74
+Wheat Flour,Groceries,Store Brand,63.46,43,2728.78,Kirana Store,Hyderabad,Rural,2026-03-15,9.87,3.2,68.43,Medium,18.59
+Sugar,Groceries,Tata,219.85,53,11652.05,Supermarket,Hyderabad,Urban,2025-08-05,28.25,3.9,205.01,Medium,10.59
+Dishwash Bar,Household,Fortune,93.16,65,6055.4,Kirana Store,Delhi,Urban,2026-03-04,27.35,3.9,85.44,High,22.51
+Wheat Flour,Groceries,Patanjali,167.97,39,6550.83,Kirana Store,Hyderabad,Semi-Urban,2025-09-08,29.7,1.9,178.36,Medium,12.07
+Cooking Oil,Groceries,P&G,117.2,28,3281.6,Kirana Store,Ahmedabad,Urban,2025-05-14,21.78,4.5,120.41,Low,11.32
+Hair Oil,Personal Care,Dabur,97.14,50,4857.0,Supermarket,Hyderabad,Semi-Urban,2025-11-02,23.38,2.2,90.65,Medium,17.03
+Dishwash Bar,Household,Fortune,397.71,30,11931.3,Supermarket,Mumbai,Urban,2026-03-14,29.94,4.6,420.21,Low,24.47
+Sugar,Groceries,Local Brand,115.0,49,5635.0,Supermarket,Pune,Semi-Urban,2025-11-30,10.92,1.8,121.86,Medium,10.29
+Soap,Personal Care,Store Brand,215.78,6,1294.68,Kirana Store,Delhi,Rural,2025-06-22,6.09,2.0,197.74,Low,20.5
+Hair Oil,Personal Care,Store Brand,191.5,19,3638.5,Kirana Store,Pune,Rural,2025-11-14,15.14,2.6,183.87,Low,5.09
+Detergent,Household,Local Brand,181.4,39,7074.6,Supermarket,Chennai,Urban,2026-02-06,3.76,2.5,178.89,Medium,13.63
+Hair Oil,Personal Care,Local Brand,41.53,50,2076.5,Kirana Store,Chennai,Semi-Urban,2025-12-11,11.03,3.9,38.25,Medium,11.76
+Wheat Flour,Groceries,Local Brand,58.15,48,2791.2,Kirana Store,Ahmedabad,Rural,2025-04-08,16.27,4.3,56.9,Medium,18.6
+Dishwash Bar,Household,Local Brand,226.68,25,5667.0,Kirana Store,Mumbai,Rural,2025-12-08,0.7,2.2,232.83,Low,15.81
+Soap,Personal Care,Store Brand,122.57,33,4044.81,Kirana Store,Pune,Rural,2025-09-19,18.4,4.1,122.83,Medium,16.45
+Shampoo,Personal Care,Store Brand,182.9,46,8413.4,Kirana Store,Delhi,Semi-Urban,2025-08-17,5.22,4.4,166.32,Medium,17.06
+Dishwash Bar,Household,Patanjali,76.77,35,2686.95,Supermarket,Ahmedabad,Semi-Urban,2025-04-24,21.04,3.7,83.88,Medium,15.7
+Dishwash Bar,Household,Fortune,271.21,10,2712.1,Kirana Store,Pune,Urban,2026-03-17,19.14,4.8,291.03,Low,20.32
+Shampoo,Personal Care,Local Brand,219.56,63,13832.28,Kirana Store,Mumbai,Rural,2026-02-08,27.45,2.9,227.01,High,13.66
+Toothpaste,Personal Care,Reliance,215.89,40,8635.6,Supermarket,Delhi,Urban,2026-03-16,8.87,2.1,217.79,Medium,21.51
+Floor Cleaner,Household,Aashirvaad,562.79,9,5065.11,Supermarket,Mumbai,Urban,2025-06-29,2.82,3.0,554.14,Low,17.14
+Cooking Oil,Groceries,Fortune,216.64,41,8882.24,Supermarket,Mumbai,Urban,2026-01-08,24.03,4.1,214.86,Medium,13.78
+Shampoo,Personal Care,Dabur,197.33,48,9471.84,Supermarket,Pune,Semi-Urban,2026-01-07,4.98,4.0,203.63,Medium,22.19
+Cooking Oil,Groceries,Tata,280.2,15,4203.0,Kirana Store,Pune,Urban,2025-09-13,11.74,3.1,252.6,Low,28.04
