@@ -22,7 +22,7 @@ def load_data():
 
 df = load_data()
 
-# 2. ML MODEL SETUP (Decision Engine)
+# 2. ML MODEL SETUP (Decision Engine )
 @st.cache_resource
 def train_model(df):
     ml_df = df.copy()
